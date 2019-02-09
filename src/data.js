@@ -2784,6 +2784,575 @@ export const yearlist = {
                 }
             ],
             "year": 2018
+        },
+        {"categories": [
+                {
+                    "name": " Eduskunta",
+                    "percentage": 0.000000000001,
+                    "subcategories": [
+                        {
+                            "name": " Kansanedustajat",
+                            "percentage": 0.13797216952099342,
+                            "sum": 21744000
+                        },
+                        {
+                            "name": " Eduskunnan kanslia",
+                            "percentage": 0.6751651363921902,
+                            "sum": 106404000
+                        },
+                        {
+                            "name": " Eduskunnan oikeusasiamies",
+                            "percentage": 0.03838271033078041,
+                            "sum": 6049000
+                        },
+                        {
+                            "name": " Ulkopoliittinen instituutti",
+                            "percentage": 0.022246616369600944,
+                            "sum": 3506000
+                        },
+                        {
+                            "name": " Valtiontalouden tarkastusvirasto",
+                            "percentage": 0.10082044708972887,
+                            "sum": 15889000
+                        },
+                        {
+                            "name": " Eduskunnan muut menot",
+                            "percentage": 0.025412920296706155,
+                            "sum": 4005000
+                        }
+                    ],
+                    "sum": 157597000
+                },
+                {
+                    "name": " Tasavallan presidentti",
+                    "percentage": 0.00,
+                    "subcategories": [
+                        {
+                            "name": " Tasavallan presidentti",
+                            "percentage": 0.0864557237773663,
+                            "sum": 3175000
+                        },
+                        {
+                            "name": " Tasavallan presidentin kanslia",
+                            "percentage": 0.9135442762226337,
+                            "sum": 33549000
+                        }
+                    ],
+                    "sum": 36724000
+                },
+                {
+                    "name": " Valtioneuvoston kanslia",
+                    "percentage": 0.00000000020391740726002565,
+                    "subcategories": [
+                        {
+                            "name": " Hallinto",
+                            "percentage": 0.4442378018794539,
+                            "sum": 49684000
+                        },
+                        {
+                            "name": " Omistajaohjaus",
+                            "percentage": 0.20296671167103297,
+                            "sum": 22700000
+                        },
+                        {
+                            "name": " Poliittisen toiminnan avustaminen",
+                            "percentage": 0.30400300426498333,
+                            "sum": 34000000
+                        },
+                        {
+                            "name": " Oikeuskanslerinvirasto",
+                            "percentage": 0.033234681378027736,
+                            "sum": 3717000
+                        },
+                        {
+                            "name": " Muut menot",
+                            "percentage": 0.015557800806502087,
+                            "sum": 1740000
+                        }
+                    ],
+                    "sum": 111841000
+                },
+                {
+                    "name": " Ulkoministeri\u00f6n hallinnonala",
+                    "percentage": 0.000000025204597034709317,
+                    "subcategories": [
+                        {
+                            "name": " Ulkoasiainhallinto",
+                            "percentage": 0.17481627660182425,
+                            "sum": 241662000
+                        },
+                        {
+                            "name": " Kriisinhallinta",
+                            "percentage": 0.05531197350650365,
+                            "sum": 76462000
+                        },
+                        {
+                            "name": " Kansainv\u00e4linen kehitysyhteisty\u00f6",
+                            "percentage": 0.7025905378923405,
+                            "sum": 971245000
+                        },
+                        {
+                            "name": " Ulkoasiainministeri\u00f6n hallinnonalan muut menot",
+                            "percentage": 0.06728121199933158,
+                            "sum": 93008000
+                        }
+                    ],
+                    "sum": 1382377000
+                },
+                {
+                    "name": " Oikeusministeri\u00f6n hallinnonala",
+                    "percentage": 0.00000016627507180302748,
+                    "subcategories": [
+                        {
+                            "name": " Ministeri\u00f6 ja hallinto",
+                            "percentage": 0.14392361034962214,
+                            "sum": 131252000
+                        },
+                        {
+                            "name": " Tuomioistuimet ja oikeusapu",
+                            "percentage": 0.4139991403094009,
+                            "sum": 377549000
+                        },
+                        {
+                            "name": " Maksuh\u00e4iri\u00f6t ulosotto ja konkurssivalvonta",
+                            "percentage": 0.11555053094666848,
+                            "sum": 105377000
+                        },
+                        {
+                            "name": " Syytt\u00e4j\u00e4t",
+                            "percentage": 0.05035659615156872,
+                            "sum": 45923000
+                        },
+                        {
+                            "name": " Rangaistusten t\u00e4yt\u00e4nt\u00f6\u00f6npano",
+                            "percentage": 0.2572558325182355,
+                            "sum": 234606000
+                        },
+                        {
+                            "name": " Vaalimenot",
+                            "percentage": 0.018914289724504253,
+                            "sum": 17249000
+                        }
+                    ],
+                    "sum": 911956000
+                },
+                {
+                    "name": " Sis\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.00000001,
+                    "subcategories": [
+                        {
+                            "name": " Hallinto",
+                            "percentage": 0.10621951134024313,
+                            "sum": 136373000
+                        },
+                        {
+                            "name": " Poliisitoimi",
+                            "percentage": 0.5778753293729394,
+                            "sum": 741922000
+                        },
+                        {
+                            "name": " Rajavartiolaitos",
+                            "percentage": 0.17968126279812974,
+                            "sum": 230689000
+                        },
+                        {
+                            "name": " Pelastustoimi ja h\u00e4t\u00e4keskustoiminta",
+                            "percentage": 0.07635065298209566,
+                            "sum": 98025000
+                        },
+                        {
+                            "name": " Maahanmuutto",
+                            "percentage": 0.05987324350659213,
+                            "sum": 76870000
+                        }
+                    ],
+                    "sum": 1283879000
+                },
+                {
+                    "name": " Puolustusministeri\u00f6n hallinnonala",
+                    "percentage": 0.00,
+                    "subcategories": [
+                        {
+                            "name": " Puolustuspolitiikka ja hallinto",
+                            "percentage": 0.13288847041044177,
+                            "sum": 360174000
+                        },
+                        {
+                            "name": " Sotilaallinen maanpuolustus",
+                            "percentage": 0.8459791879124009,
+                            "sum": 2292898000
+                        },
+                        {
+                            "name": " Sotilaallinen kriisinhallinta",
+                            "percentage": 0.021132341677157326,
+                            "sum": 57276000
+                        }
+                    ],
+                    "sum": 2710348000
+                },
+                {
+                    "name": " Valtiovarainministeri\u00f6n hallinnonala",
+                    "percentage": 0.000002,
+                    "subcategories": [
+                        {
+                            "name": " Hallinto",
+                            "percentage": 0.009509134801552495,
+                            "sum": 162591000
+                        },
+                        {
+                            "name": " Verotus ja tullitoimi",
+                            "percentage": 0.03872186644821349,
+                            "sum": 662082000
+                        },
+                        {
+                            "name": " Palvelut valtioyhteis\u00f6lle",
+                            "percentage": 0.0030263063780057563,
+                            "sum": 51745000
+                        },
+                        {
+                            "name": " Tilastotoimi taloudellinen tutkimus ja rekisterihallinto",
+                            "percentage": 0.0038884337781059175,
+                            "sum": 66486000
+                        },
+                        {
+                            "name": " Valtion alue- ja paikallishallinto",
+                            "percentage": 0.00530663656794574,
+                            "sum": 90735000
+                        },
+                        {
+                            "name": " El\u00e4kkeet ja korvaukset",
+                            "percentage": 0.2669267728602224,
+                            "sum": 4564021000
+                        },
+                        {
+                            "name": " Valtionhallinnon yhteiset henkil\u00f6st\u00f6menot",
+                            "percentage": 0.0007923547938780942,
+                            "sum": 13548000
+                        },
+                        {
+                            "name": " Valtionhallinnon kehitt\u00e4minen",
+                            "percentage": 0.0032152129313144547,
+                            "sum": 54975000
+                        },
+                        {
+                            "name": " Siirrot Ahvenanmaan maakunnalle",
+                            "percentage": 0.016002139615277477,
+                            "sum": 273611000
+                        },
+                        {
+                            "name": " Kuntien tukeminen",
+                            "percentage": 0.5078066656642337,
+                            "sum": 8682682000
+                        },
+                        {
+                            "name": " Ty\u00f6llisyyden ja elinkeinoel\u00e4m\u00e4n tukeminen",
+                            "percentage": 0.017663640009378655,
+                            "sum": 302020000
+                        },
+                        {
+                            "name": " EU ja kansainv\u00e4liset j\u00e4rjest\u00f6t",
+                            "percentage": 0.11904358776004843,
+                            "sum": 2035455000
+                        },
+                        {
+                            "name": " Erikseen budjetoidut valtionhallinnon menot",
+                            "percentage": 0.008097248391823306,
+                            "sum": 138450000
+                        }
+                    ],
+                    "sum": 17098401000
+                },
+                {
+                    "name": " Opetus- ja kulttuuriministeri\u00f6n hallinnonala",
+                    "percentage": 0.20,
+                    "subcategories": [
+                        {
+                            "name": " Hallinto kirkollisasiat ja toimialan yhteiset menot",
+                            "percentage": 0.0185324111675735,
+                            "sum": 123763000
+                        },
+                        {
+                            "name": " Yleissivist\u00e4v\u00e4 koulutus",
+                            "percentage": 0.14703320898830102,
+                            "sum": 981916000
+                        },
+                        {
+                            "name": " Ammatillinen koulutus",
+                            "percentage": 0.11004864789751477,
+                            "sum": 734926000
+                        },
+                        {
+                            "name": " Aikuiskoulutus",
+                            "percentage": 0.08073113201896562,
+                            "sum": 539138000
+                        },
+                        {
+                            "name": " Korkeakouluopetus ja tutkimus",
+                            "percentage": 0.40106394065938805,
+                            "sum": 2678382000
+                        },
+                        {
+                            "name": " Opintotuki",
+                            "percentage": 0.1350247192653341,
+                            "sum": 901721000
+                        },
+                        {
+                            "name": " Taide ja kulttuuri",
+                            "percentage": 0.06830546351467583,
+                            "sum": 456157000
+                        },
+                        {
+                            "name": " Liikuntatoimi",
+                            "percentage": 0.028085146398905574,
+                            "sum": 187558000
+                        },
+                        {
+                            "name": " Nuorisoty\u00f6",
+                            "percentage": 0.011175330089341547,
+                            "sum": 74631000
+                        }
+                    ],
+                    "sum": 6678192000
+                },
+                {
+                    "name": " Maa- ja mets\u00e4talousministeri\u00f6n hallinnonala",
+                    "percentage": 0.048819294308769655,
+                    "subcategories": [
+                        {
+                            "name": " Hallinto",
+                            "percentage": 0.0377564747527034,
+                            "sum": 101095000
+                        },
+                        {
+                            "name": " Maaseudun kehitt\u00e4minen",
+                            "percentage": 0.08109640365796544,
+                            "sum": 217140000
+                        },
+                        {
+                            "name": " Maatalous",
+                            "percentage": 0.7362477096633718,
+                            "sum": 1971343000
+                        },
+                        {
+                            "name": " Elintarvikkeiden turvallisuus ja laatu",
+                            "percentage": 0.01986850685364329,
+                            "sum": 53199000
+                        },
+                        {
+                            "name": " Kala- riista- ja porotalous",
+                            "percentage": 0.02362267950524994,
+                            "sum": 63251000
+                        },
+                        {
+                            "name": " Vesitalous",
+                            "percentage": 0.01011482868319369,
+                            "sum": 27083000
+                        },
+                        {
+                            "name": " Mets\u00e4talous",
+                            "percentage": 0.0661402160329913,
+                            "sum": 177094000
+                        },
+                        {
+                            "name": " Mets\u00e4hallitus",
+                            "percentage": 0.002385386065042946,
+                            "sum": 6387000
+                        },
+                        {
+                            "name": " Kiinteist\u00f6- ja paikkatietoinfrastruktuuri",
+                            "percentage": 0.022767794785838118,
+                            "sum": 60962000
+                        }
+                    ],
+                    "sum": 2677554000
+                },
+                {
+                    "name": " Liikenne- ja viestint\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.05618472374352109,
+                    "subcategories": [
+                        {
+                            "name": " Hallinto ja toimialan yhteiset menot",
+                            "percentage": 0.13186382045224435,
+                            "sum": 406341000
+                        },
+                        {
+                            "name": " Liikenneverkko",
+                            "percentage": 0.5890226251979542,
+                            "sum": 1815085000
+                        },
+                        {
+                            "name": " Liikenteen viranomaispalvelut",
+                            "percentage": 0.015645850099950672,
+                            "sum": 48213000
+                        },
+                        {
+                            "name": " Liikenteen tukeminen ja ostopalvelut",
+                            "percentage": 0.07515219761676056,
+                            "sum": 231583000
+                        },
+                        {
+                            "name": " Viestint\u00e4palvelut ja -verkot sek\u00e4 viestinn\u00e4n tukeminen",
+                            "percentage": 0.1724480126690724,
+                            "sum": 531402000
+                        },
+                        {
+                            "name": " Tutkimus",
+                            "percentage": 0.015867493964017758,
+                            "sum": 48896000
+                        }
+                    ],
+                    "sum": 3081520000
+                },
+                {
+                    "name": " Ty\u00f6- ja elinkeinoministeri\u00f6n hallinnonala",
+                    "percentage": 0.06588732405922194,
+                    "subcategories": [
+                        {
+                            "name": " Hallinto",
+                            "percentage": 0.1490855144256353,
+                            "sum": 538746000
+                        },
+                        {
+                            "name": " Elinkeino- ja innovaatiopolitiikka",
+                            "percentage": 0.40584353141168633,
+                            "sum": 1466585000
+                        },
+                        {
+                            "name": " Ty\u00f6llisyys- ja yritt\u00e4jyyspolitiikka",
+                            "percentage": 0.2067324335834668,
+                            "sum": 747063000
+                        },
+                        {
+                            "name": " Yritysten toimintaymp\u00e4rist\u00f6 markkinoiden s\u00e4\u00e4ntely ja ty\u00f6el\u00e4",
+                            "percentage": 0.011539512036375198,
+                            "sum": 41700000
+                        },
+                        {
+                            "name": " Alueiden kehitt\u00e4minen ja rakennerahastopolitiikka",
+                            "percentage": 0.14221798276600167,
+                            "sum": 513929000
+                        },
+                        {
+                            "name": " Energiapolitiikka",
+                            "percentage": 0.05774654084447643,
+                            "sum": 208677000
+                        },
+                        {
+                            "name": " Kotouttaminen",
+                            "percentage": 0.02683448493235826,
+                            "sum": 96971000
+                        }
+                    ],
+                    "sum": 3613671000
+                },
+                {
+                    "name": " Sosiaali- ja terveysministeri\u00f6n hallinnonala",
+                    "percentage": 0.50,
+                    "subcategories": [
+                        {
+                            "name": " Hallinto",
+                            "percentage": 0.006946160733374562,
+                            "sum": 90809000
+                        },
+                        {
+                            "name": " Valvonta",
+                            "percentage": 0.003408865344655677,
+                            "sum": 44565000
+                        },
+                        {
+                            "name": " Tutkimus- ja kehitt\u00e4mistoiminta",
+                            "percentage": 0.008779444155687198,
+                            "sum": 114776000
+                        },
+                        {
+                            "name": " Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja",
+                            "percentage": 0.20331569810602018,
+                            "sum": 2658000000
+                        },
+                        {
+                            "name": " Ty\u00f6tt\u00f6myysturva",
+                            "percentage": 0.2284560130923683,
+                            "sum": 2986666000
+                        },
+                        {
+                            "name": " Sairausvakuutus",
+                            "percentage": 0.09710443412567557,
+                            "sum": 1269472000
+                        },
+                        {
+                            "name": " El\u00e4kkeet",
+                            "percentage": 0.34431337542687307,
+                            "sum": 4501300000
+                        },
+                        {
+                            "name": " Veteraanien tukeminen",
+                            "percentage": 0.02106084440267982,
+                            "sum": 275334000
+                        },
+                        {
+                            "name": " Kuntien j\u00e4rjest\u00e4m\u00e4 sosiaali- ja terveydenhuolto",
+                            "percentage": 0.041296569755145326,
+                            "sum": 539881000
+                        },
+                        {
+                            "name": " Terveyden ja toimintakyvyn edist\u00e4minen",
+                            "percentage": 0.004545306776845723,
+                            "sum": 59422000
+                        },
+                        {
+                            "name": " Maatalousyritt\u00e4jien ja turkistuottajien lomitustoiminta",
+                            "percentage": 0.017213756471700068,
+                            "sum": 225040000
+                        },
+                        {
+                            "name": " Raha-automaattiyhdistyksen avustukset",
+                            "percentage": 0.023559531608974497,
+                            "sum": 308000000
+                        }
+                    ],
+                    "sum": 13073265000
+                },
+                {
+                    "name": " Ymp\u00e4rist\u00f6ministeri\u00f6n hallinnonala",
+                    "percentage": 0.005311213305929442,
+                    "subcategories": [
+                        {
+                            "name": " Ymp\u00e4rist\u00f6hallinnon toimintamenot",
+                            "percentage": 0.2708994164092001,
+                            "sum": 78913000
+                        },
+                        {
+                            "name": " Ymp\u00e4rist\u00f6n- ja luonnonsuojelu",
+                            "percentage": 0.5579059388946104,
+                            "sum": 162518000
+                        },
+                        {
+                            "name": " Yhdyskunnat rakentaminen ja asuminen",
+                            "percentage": 0.1711946446961895,
+                            "sum": 49869000
+                        }
+                    ],
+                    "sum": 291300000
+                },
+                {
+                    "name": " Valtionvelan korot",
+                    "percentage": 0.0,
+                    "subcategories": [
+                        {
+                            "name": " Valtionvelan korko",
+                            "percentage": 0.9777854511970534,
+                            "sum": 1699000000
+                        },
+                        {
+                            "name": " Muut menot valtionvelasta",
+                            "percentage": 0.022214548802946592,
+                            "sum": 38600000
+                        }
+                    ],
+                    "sum": 1737600000
+                }
+            ],
+            "year": 2019
         }
     ]
 }
