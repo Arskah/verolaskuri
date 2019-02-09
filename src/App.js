@@ -13,21 +13,21 @@ const ImageContainer = (props) => {
   if(props.year == 2014 ) {
     return (
       <div>
-        <img src='./img/katainen.png' />
-        <img src='./img/stubb.png' />
+        <img src='img/katainen.png' />
+        <img src='img/stubb.png' />
       </div>
     )
   }
   if(props.year == 2019) {
     return (
       <div>
-        <img src='./img/hiiri.jpg' />
+        <img src='img/hiiri.jpg' />
       </div>
     )
   }
   return (
     <div>
-      <img src='./sipila.png' />
+      <img src='img/sipila.png' />
     </div>
   )
 }
