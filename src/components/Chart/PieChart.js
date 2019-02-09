@@ -37,8 +37,8 @@ export default class PieChart extends Component {
 
   render() {
     const { widthSVG } = this.state;
-    console.log(this.props.year);
-    console.log(this.props.data);
+    // console.log(this.props.year);
+    // console.log(this.props.data);
     values = [];
     labels = [];
     for(var i=0; i<this.props.data.categories.length; i++){

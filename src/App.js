@@ -17,7 +17,7 @@ class App extends Component {
       tax: 5,
       year: 2014,
     }
-    console.log(yearlist);
+    // console.log(yearlist);
   }
 
   incomeHandler = (input) => {
