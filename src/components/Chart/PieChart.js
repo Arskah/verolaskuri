@@ -13,13 +13,7 @@ export default class PieChart extends Component {
   constructor(props){
 
     super(props);
-    values = [];
-    labels = [];
-    for(var i=0; i<this.props.data.categories.length; i++){
-      values[i] = this.props.data.categories[i].percentage;
-      labels[i] = this.props.data.categories[i].name;
-    }
-    pie = d3.pie()(values);
+
     this.state = {
       widthSVG: window.innerWidth,
     }
@@ -43,6 +37,15 @@ export default class PieChart extends Component {
 
   render() {
     const { widthSVG } = this.state;
+    console.log(this.props.year);
+    console.log(this.props.data);
+    values = [];
+    labels = [];
+    for(var i=0; i<this.props.data.categories.length; i++){
+      values[i] = this.props.data.categories[i].percentage;
+      labels[i] = this.props.data.categories[i].name;
+    }
+    pie = d3.pie()(values);
     return (
 
       <div className='svg-container'>
@@ -93,7 +96,6 @@ const Labels = props => {
     let angle1 = slice.startAngle;
     let angle2 = slice.endAngle;        
     let angle3 = (angle1 + angle2) / 2;
-    console.log(labels[index] + " " + angle3);
     let nx;
     let ny;
     let r = 130;
