@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Valtion budjetti",
+  "name": "Interactive budget of Finland",
   "icons": [
     {
       "src": "favicon.ico",
