@@ -21,7 +21,7 @@ export default class PieChart extends Component {
     }
     pie = d3.pie()(values);
     this.state = {
-      width: width,
+      widthSVG: window.innerWidth,
     }
   }
 
@@ -37,17 +37,17 @@ export default class PieChart extends Component {
     const width = window.innerWidth;
     this.setState(
       {
-        width: width,
+        widthSVG: width,
       });
   };
 
   render() {
-    const { width } = this.state;
+    const { widthSVG } = this.state;
     return (
 
       <div className='svg-container'>
         <svg className='svg-img' preserveAspectRatio="xMinYMin meet">
-          <g transform={'translate('+(width/2)+','+(400/2)+')'}>
+          <g transform={'translate('+(widthSVG/2)+','+(400/2)+')'}>
             <Slice pie={pie} innerRadius={75} outerRadius={125}/>
             <Labels pie={pie} labels={labels} />
             <text y="-25" textAnchor="middle" style={{"font-size":"10px"}}>MAKSOIT VEROJA</text>
