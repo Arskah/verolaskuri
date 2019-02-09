@@ -53,7 +53,7 @@ export default class PieChart extends Component {
           <g transform={'translate('+(widthSVG/2)+','+(400/2)+')'}>
             <Slice pie={pie} innerRadius={75} outerRadius={125}/>
             <Labels pie={pie} labels={labels} />
-            <text y="-25" textAnchor="middle" style={{"font-size":"10px"}}>MAKSOIT VEROJA</text>
+            <text y="-25" textAnchor="middle" style={{"fontSize":"10px"}}>MAKSOIT VEROJA</text>
             <text y="10"textAnchor="middle">{this.props.tax + " €"}</text>
           </g>
         </svg>
@@ -80,7 +80,7 @@ const Slice = props => {
   return pie.map((slice, index) => {
     const sliceColor = interpolate(index / (pie.length - 1));
 
-    return <path d={arc(slice)} fill={sliceColor} />;
+    return <path key={index} d={arc(slice)} fill={sliceColor} />;
   });
 };
 const Labels = props => {
@@ -118,6 +118,6 @@ const Labels = props => {
         textAnchoring = "end";
     if(ny > 0)
         ny += 14;
-    return <text style={{"font-size":"14px"}}textAnchor={textAnchoring} x={nx} y={ny}>{labels[index]}</text>;
+    return <text key={index} style={{"fontSize":"14px"}}textAnchor={textAnchoring} x={nx} y={ny}>{labels[index]}</text>;
   });
 };
