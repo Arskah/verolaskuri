@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import * as d3 from 'd3';
+import './PieChart.css';
 
 const height = 400;
 const width = 400;
@@ -9,27 +10,46 @@ var labels = ["Sos. ter. ministeriö","Sisäministeriö"];
 var pie = d3.pie()(values);
 
 export default class PieChart extends Component {
-  
   constructor(props){
-      super(props);
-      values = [];
-      labels = [];
-      for(var i=0; i<this.props.data.length; i++){
-        values[i] = this.props.data[i].percentage;
-        labels[i] = this.props.data[i].name;
-      }
-      pie = d3.pie()(values);
+
+    super(props);
+    values = [];
+    labels = [];
+    for(var i=0; i<this.props.data.length; i++){
+      values[i] = this.props.data[i].percentage;
+      labels[i] = this.props.data[i].name;
+    }
+    pie = d3.pie()(values);
+    this.state = {
+      width: width,
+    }
   }
+
+  componentDidMount() {
+    window.addEventListener("resize", this.updateSize);
+  }
+
+  componentWillUnmount() {
+    window.removeEventListener("resize", this.updateSize);
+  }
+
+  updateSize = () => {
+    const width = window.innerWidth;
+    this.setState(
+      {
+        width: width,
+      });
+  };
+
   render() {
+    const { width } = this.state;
     return (
-      <div>
-      
-        <svg height={height} width={width}>
-            <g transform={'translate('+(width/2)+','+(height/2)+')'}>
-                <Slice pie={pie} />
-                <Labels pie={pie} labels={labels} />
-            </g>
-            
+      <div className='svg-container'>
+        <svg className='svg-img' preserveAspectRatio="xMinYMin meet">
+          <g transform={'translate('+(width/2)+','+(400/2)+')'}>
+            <Slice pie={pie} innerRadius={75} outerRadius={125}/>
+            <Labels pie={pie} labels={labels} />
+          </g>
         </svg>
       </div>
     )
@@ -42,17 +62,17 @@ function midAngle(d){
 	}
 
 const Slice = props => {
-  let { pie } = props;
+  const { pie, innerRadius, outerRadius } = props;
 
-  let arc = d3
+  const arc = d3
     .arc()
-    .innerRadius(75)
-    .outerRadius(125);
+    .innerRadius(innerRadius)
+    .outerRadius(outerRadius);
 
-  let interpolate = d3.interpolateRgb("#eaaf79", "#bc3358");
+  const interpolate = d3.interpolateRgb("#eaaf79", "#bc3358");
 
   return pie.map((slice, index) => {
-    let sliceColor = interpolate(index / (pie.length - 1));
+    const sliceColor = interpolate(index / (pie.length - 1));
 
     return <path d={arc(slice)} fill={sliceColor} />;
   });

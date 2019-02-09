@@ -44,7 +44,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <Chart blocks={testArray}/>
+          {/* <Chart blocks={testArray}/> */}
           <PieChart data={testArray} />
           <InputContainer income={this.incomeHandler} tax={this.taxHandler} year={this.yearHandler} />
         </header>
