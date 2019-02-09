@@ -20,21 +20,21 @@ class App extends Component {
   }
 
   incomeHandler = (input) => {
-    console.log(input);
+    // console.log(input);
     this.setState({
       income: input,
     });
   }
 
   taxHandler = (input) => {
-    console.log(input);
+    // console.log(input);
     this.setState({
       tax: input,
     });
   }
 
   yearHandler = (input) => {
-    console.log(input);
+    // console.log(input);
     this.setState({
       year: input,
     });
@@ -44,9 +44,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <InputContainer income={this.incomeHandler} tax={this.taxHandler} year={this.yearHandler} />
           <Chart blocks={testArray}/>
           <PieChart data={testArray} />
+          <InputContainer income={this.incomeHandler} tax={this.taxHandler} year={this.yearHandler} />
         </header>
       </div>
     );

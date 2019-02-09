@@ -1,0 +1,8 @@
+.input-container {
+  /* margin-top: 20%; */
+  display: flex;
+  flex: 1;
+  flex-flow: column nowrap;
+  min-width: 200px;
+  padding: 1rem;
+}
