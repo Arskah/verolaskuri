@@ -7,27 +7,34 @@ import InputContainer from './components/InputContainer/InputContainer';
 
 import PieChart from './components/Chart/PieChart';
 
+
+const katainen = require("img/katainen.png");
+const stubb = require("img/stubb.png");
+const hiiri = require("img/hiiri.jpg");
+const sipila = require("img/sipila.png");
+
+
 let testArray = [{"percentage":5, "sum" : 100, "name":"Test1"},{"percentage":10, "sum" : 100, "name":"Test2"},{"percentage":15, "sum" : 100, "name":"Test3"},{"percentage":20, "sum" : 100, "name":"Test4"},{"percentage":25, "sum" : 100, "name":"Test5"},{"percentage":30, "sum" : 100, "name":"Test6"},{"percentage":35, "sum" : 200, "name":"Test7"}];
 
 const ImageContainer = (props) => {
   if(props.year == 2014 ) {
     return (
       <div>
-        <img src='img/katainen.png' />
-        <img src='img/stubb.png' />
+        <img src={katainen} />
+        <img src={stubb} />
       </div>
     )
   }
   if(props.year == 2019) {
     return (
       <div>
-        <img src='img/hiiri.jpg' />
+        <img src={hiiri} />
       </div>
     )
   }
   return (
     <div>
-      <img src='img/sipila.png' />
+      <img src={sipila} />
     </div>
   )
 }
