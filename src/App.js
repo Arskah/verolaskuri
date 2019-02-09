@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+import yearlist from './data.json';
+
 import InputContainer from './components/InputContainer/InputContainer';
 
 import Chart from './components/Chart/Chart';
@@ -17,6 +19,7 @@ class App extends Component {
       tax: 0,
       year: 2014,
     }
+    console.log(yearlist);
   }
 
   incomeHandler = (input) => {
@@ -44,7 +47,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <PieChart tax={this.state.tax * this.state.income} data={testArray} />
+          <PieChart tax={this.state.tax * this.state.income} year={this.state.year} data={yearlist.yearlist[this.state.year-2014]} />
           <InputContainer income={this.incomeHandler} tax={this.taxHandler} year={this.yearHandler} />
         </header>
       </div>
