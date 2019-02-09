@@ -14,7 +14,7 @@ export default class InputContainer extends Component {
       <div className="input-container">
         <InputSlider id="year" label="Valitse vuosi"
           min={2014}
-          max={2018}
+          max={2019}
           defaultVal={2014}
           handlerFunc={this.props.year}
           step={1}
