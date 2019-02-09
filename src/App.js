@@ -13,7 +13,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      income: 100,
+      income: 5000,
       tax: 5,
       year: 2014,
     }
