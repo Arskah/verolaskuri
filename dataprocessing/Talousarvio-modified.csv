@@ -41,7 +41,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.51. Hädänalaisten avustaminen	45000	0	45000	45000	37197	96	37197	96	7802	4	
 2014	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.66. Eräät jäsenmaksut ja rahoitusosuudet	86507000	0	86507000	86507000	86507000	86507000	0	
 2014	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.67. Kansainvälisen ilmastosopimuksen alaisen yhteistyön menot	500000	0	500000	500000	500000	500000	0	
-2014	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren	 Barentsin ja arktisen alueen yhteistyö	3200000	0	3200000	3200000	3200000	3200000	0	
+2014	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren Barentsin ja arktisen alueen yhteistyö	3200000	0	3200000	3200000	3200000	3200000	0	
 2014	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.95. Kurssivaihtelut	1000000	0	1000000	1000000	-94204	88	-94204	88	1094204	88	
 2014	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.01. Oikeusministeriön toimintamenot	27592000	69000	27661000	27661000	27661000	27661000	0	
 2014	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.02. Oikeushallinnon tietotekniikkakeskuksen toimintamenot	1000	0	1000	1000	1000	1000	0	
@@ -58,7 +58,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.04. Oikeusaputoimistojen ja kuluttajariitalautakunnan toimintamenot	29371000	0	29371000	29371000	29371000	29371000	0	
 2014	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.05. Yleisen edunvalvonnan toimintamenot	12411000	-2000000	10411000	10411000	9474682	16	9474682	16	936317	84	
 2014	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.50. Yksityisille oikeusavustajille maksettavat korvaukset	45150000	12600000	57750000	57750000	60456245	22	60456245	22	-2706245	22	
-2014	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt	 ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	105377000	0	105377000	105377000	105377000	105377000	0	
+2014	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	105377000	0	105377000	105377000	105377000	105377000	0	
 2014	25. Oikeusministeriön hallinnonala	25.30. Syyttäjät	25.30.01. Syyttäjälaitoksen toimintamenot	45923000	0	45923000	45923000	45923000	45923000	0	
 2014	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.01. Rikosseuraamuslaitoksen toimintamenot	229206000	0	229206000	229206000	229206000	229206000	0	
 2014	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.74. Avolaitostyöt	5400000	0	5400000	5400000	5400000	5400000	0	
@@ -113,9 +113,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.08. Valtion talous- ja henkilöstöhallinnon palvelukeskuksen kehittäminen	2228000	970000	3198000	3198000	3198000	3198000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.09. Valtion yhteisten perustietotekniikka- ja tietojärjestelmäpalvelujen palvelukeskuksen toimintamenot	4000000	0	4000000	4000000	4000000	4000000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.10. Valtion yhteisten perustietotekniikka- ja tietojärjestelmäpalvelujen palvelukeskuksen investointimenot	6000000	0	6000000	6000000	6000000	6000000	0	
-2014	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	51454000	325000	51779000	51779000	51779000	51779000	0	
-2014	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	4191000	0	4191000	4191000	4191000	4191000	0	
-2014	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	9816000	700000	10516000	10516000	10516000	10516000	0	
+2014	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	51454000	325000	51779000	51779000	51779000	51779000	0	
+2014	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	4191000	0	4191000	4191000	4191000	4191000	0	
+2014	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	9816000	700000	10516000	10516000	10516000	10516000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.01. Aluehallintoviraston toimintamenot	57878000	716000	58594000	58594000	58594000	58594000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.02. Maistraattien toimintamenot	32181000	-264000	31917000	31917000	31917000	31917000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.03. Alue- ja paikallishallinnon tukitoimet	224000	0	224000	224000	224000	224000	0	
@@ -131,7 +131,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.12. Osaamisen kehittäminen	12328000	0	12328000	12328000	12328000	12328000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.60. Siirto Koulutusrahastolle	230000	0	230000	230000	188868	188868	41132	
 2014	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.01. Valtion ICT:n ohjaus ja kehittäminen	11613000	-450000	11163000	11163000	11163000	11163000	0	
-2014	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous-	 henkilöstö- ja toimitilahallinnon tietojärjestelmät	8652000	0	8652000	8652000	8652000	8652000	0	
+2014	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous- henkilöstö- ja toimitilahallinnon tietojärjestelmät	8652000	0	8652000	8652000	8652000	8652000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.03. Kansallisen tietoalan ohjaus ja kehittäminen	13000000	0	13000000	13000000	13000000	13000000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.04. Yhteiskunnan elintärkeiden toimintojen tietojärjestelmien tietoturvallisuus ja varautuminen	1700000	2650000	4350000	4350000	4350000	4350000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.20. Tuottavuuden edistäminen	20005000	-2195000	17810000	17810000	17810000	17810000	0	
@@ -155,17 +155,17 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.95. Satunnaiset säädösperusteiset menot	300000	0	300000	300000	0	0	300000	
 2014	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.96. Ennakoimattomat menot	5000000	0	5000000	5000000	5000000	5000000	0	
 2014	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.97. Valtion saatavien turvaaminen	150000	0	150000	150000	92209	46	92209	46	57790	54	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	27776000	0	27776000	27776000	27776000	27776000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	22668000	0	22668000	22668000	22668000	22668000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.03. Kansainvälisen liikkuvuuden ja yhteistyön keskuksen CIMOn toimintamenot	8655000	0	8655000	8655000	8655000	8655000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.04. Koulutuksen ja korkeakoulujen arviointi	3575000	0	3575000	3575000	3575000	3575000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3726000	0	3726000	3726000	3726000	3726000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.22. Eräät käyttöoikeuskorvaukset	18338000	0	18338000	18338000	18338000	18338000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.23. Opetus- ja kulttuuriministeriön hallinnonalan tuottavuusmääräraha	1994000	0	1994000	1994000	1994000	1994000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	30803000	0	30803000	30803000	33716873	02	33716873	02	-2913873	2	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	748000	0	748000	748000	748000	748000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3298000	0	3298000	3298000	3298000	3298000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2182000	0	2182000	2182000	2051497	59	2051497	59	130502	41	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	27776000	0	27776000	27776000	27776000	27776000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	22668000	0	22668000	22668000	22668000	22668000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.03. Kansainvälisen liikkuvuuden ja yhteistyön keskuksen CIMOn toimintamenot	8655000	0	8655000	8655000	8655000	8655000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.04. Koulutuksen ja korkeakoulujen arviointi	3575000	0	3575000	3575000	3575000	3575000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3726000	0	3726000	3726000	3726000	3726000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.22. Eräät käyttöoikeuskorvaukset	18338000	0	18338000	18338000	18338000	18338000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.23. Opetus- ja kulttuuriministeriön hallinnonalan tuottavuusmääräraha	1994000	0	1994000	1994000	1994000	1994000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	30803000	0	30803000	30803000	33716873	02	33716873	02	-2913873	2	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	748000	0	748000	748000	748000	748000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3298000	0	3298000	3298000	3298000	3298000	0	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2182000	0	2182000	2182000	2051497	59	2051497	59	130502	41	
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus	29.10.01. Valtion yleissivistävän koulutuksen toimintamenot	50924000	-400000	50524000	50524000	50524000	50524000	0	
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus	29.10.02. Ylioppilastutkintolautakunnan toimintamenot	1949000	400000	2349000	2349000	2349000	2349000	0	
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus	29.10.20. Yleissivistävän koulutuksen ja lasten päivähoidon kehittäminen	12717000	0	12717000	12717000	12717000	12717000	0	
@@ -217,7 +217,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.35. Valtionavustus Suomen itsenäisyyden 100-vuotisjuhlavuoden merkkihankkeen perustamiskustannuksiin	1000000	0	1000000	1000000	1000000	1000000	0	
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.40. Korvaus Suomenlinnan huoltoliikenteen käyttötappioon	252000	0	252000	252000	156960	156960	95040	
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.50. Eräät avustukset	1160000	0	1160000	1160000	1160000	1160000	0	
-2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille	 kirjailijoille ja kääntäjille	14246000	0	14246000	14246000	13892571	68	13892571	68	353428	32	
+2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille kirjailijoille ja kääntäjille	14246000	0	14246000	14246000	13892571	68	13892571	68	353428	32	
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.52. Veikkauksen ja raha-arpajaisten voittovarat taiteen edistämiseen	237069000	0	237069000	237069000	237009557	42	237009557	42	59442	58	
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.53. Valtionavustus tilakustannuksiin	29156000	0	29156000	29156000	28369019	28369019	786981	
 2014	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.54. Valtionavustus taide- ja kulttuurilaitosten toimitilainvestointeihin	7210000	0	7210000	7210000	7209870	7209870	130	
@@ -252,7 +252,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maatalous	30.20.40. Maa- ja puutarhatalouden kansallinen tuki	498800000	0	498800000	498800000	498800000	498800000	0	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maatalous	30.20.41. EU-tulotuki ja EU-markkinatuki	530000000	0	530000000	530000000	517230517	41	517230517	41	12769482	59	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maatalous	30.20.42. Satovahinkojen korvaaminen	3400000	0	3400000	3400000	3400000	3400000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maatalous	30.20.43. Maatalouden ympäristötuki	 eläinten hyvinvointia edistävät tuet ja ei-tuotannolliset investoinnit	369329000	0	369329000	369329000	369329000	369329000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maatalous	30.20.43. Maatalouden ympäristötuki eläinten hyvinvointia edistävät tuet ja ei-tuotannolliset investoinnit	369329000	0	369329000	369329000	369329000	369329000	0	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maatalous	30.20.44. Luonnonhaittakorvaus	422673000	0	422673000	422673000	422673000	422673000	0	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maatalous	30.20.45. Luopumistuet ja -eläkkeet	84390000	0	84390000	84390000	84390000	84390000	0	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maatalous	30.20.46. EU:n osarahoittama ruokaketjun kehittäminen	6605000	0	6605000	6605000	6605000	6605000	0	
@@ -262,16 +262,16 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.30. Elintarvikkeiden turvallisuus ja laatu	30.30.01. Elintarviketurvallisuusviraston toimintamenot	41521000	0	41521000	41521000	41521000	41521000	0	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.30. Elintarvikkeiden turvallisuus ja laatu	30.30.20. Eläinlääkintähuolto	4730000	500000	5230000	5230000	5193526	79	5193526	79	36473	21	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.30. Elintarvikkeiden turvallisuus ja laatu	30.30.41. Eräät korvaukset	6448000	0	6448000	6448000	6448000	6448000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.01. Riista- ja kalatalouden tutkimuslaitoksen toimintamenot	17104000	-1000000	16104000	16104000	16104000	16104000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.20. Kalakannan hoitovelvoitteet	2500000	0	2500000	2500000	2500000	2500000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.41. Hirvieläinten aiheuttamien vahinkojen korvaaminen	3400000	0	3400000	3400000	3400000	3400000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.42. Petoeläinten aiheuttamien vahinkojen korvaaminen	4300000	4780000	9080000	9080000	9080000	9080000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.43. Porotalouden edistäminen	1764000	0	1764000	1764000	1764000	1764000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.50. Riistatalouden edistäminen	10240000	0	10240000	10240000	10240000	10240000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.51. Kalatalouden edistäminen	6395000	0	6395000	6395000	6395000	6395000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.52. Kalastuslupamaksujen palautukset ja saimaannorpan suojeluun liittyvät sopimuspalkkiot	3621000	0	3621000	3621000	3717648	69	3717648	69	-96648	69	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.62. Elinkeinokalatalouden markkinoinnin ja rakennepolitiikan edistäminen	1650000	7740000	9390000	9390000	9390000	9390000	0	
-2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala-	 riista- ja porotalous	30.40.77. Kalataloudelliset rakentamis- ja kunnostushankkeet	757000	0	757000	757000	757000	757000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.01. Riista- ja kalatalouden tutkimuslaitoksen toimintamenot	17104000	-1000000	16104000	16104000	16104000	16104000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.20. Kalakannan hoitovelvoitteet	2500000	0	2500000	2500000	2500000	2500000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.41. Hirvieläinten aiheuttamien vahinkojen korvaaminen	3400000	0	3400000	3400000	3400000	3400000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.42. Petoeläinten aiheuttamien vahinkojen korvaaminen	4300000	4780000	9080000	9080000	9080000	9080000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.43. Porotalouden edistäminen	1764000	0	1764000	1764000	1764000	1764000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.50. Riistatalouden edistäminen	10240000	0	10240000	10240000	10240000	10240000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.51. Kalatalouden edistäminen	6395000	0	6395000	6395000	6395000	6395000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.52. Kalastuslupamaksujen palautukset ja saimaannorpan suojeluun liittyvät sopimuspalkkiot	3621000	0	3621000	3621000	3717648	69	3717648	69	-96648	69	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.62. Elinkeinokalatalouden markkinoinnin ja rakennepolitiikan edistäminen	1650000	7740000	9390000	9390000	9390000	9390000	0	
+2014	30. Maa- ja metsätalousministeriön hallinnonala	30.40. Kala- riista- ja porotalous	30.40.77. Kalataloudelliset rakentamis- ja kunnostushankkeet	757000	0	757000	757000	757000	757000	0	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.50. Vesitalous	30.50.20. Vesivarojen käytön ja hoidon menot	12058000	125000	12183000	12183000	12183000	12183000	0	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.50. Vesitalous	30.50.31. Vesihuollon ja tulvasuojelun tukeminen	12879000	760000	13639000	13639000	13639000	13639000	0	
 2014	30. Maa- ja metsätalousministeriön hallinnonala	30.50. Vesitalous	30.50.43. Eräät valtion maksettavaksi määrätyt korvaukset	420000	0	420000	420000	549366	72	549366	72	-129366	72	
@@ -318,7 +318,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.60. Siirto valtion televisio- ja radiorahastoon	507948000	0	507948000	507948000	507948000	507948000	0	
 2014	31. Liikenne- ja viestintäministeriön hallinnonala	31.50. Tutkimus	31.50.01. Ilmatieteen laitoksen toimintamenot	47366000	1530000	48896000	48896000	48896000	48896000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.01. Työ- ja elinkeinoministeriön toimintamenot	54110000	1680000	55790000	55790000	55790000	55790000	0	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino-	 liikenne- ja ympäristökeskusten toimintamenot	215897000	-762000	215135000	215135000	215135000	215135000	0	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino- liikenne- ja ympäristökeskusten toimintamenot	215897000	-762000	215135000	215135000	215135000	215135000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.20. Siviilipalvelus	5083000	0	5083000	5083000	4096520	59	4096520	59	986479	41	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.21. Työ- ja elinkeinoministeriön hallinnonalan tuottavuusmääräraha	6019000	0	6019000	6019000	6019000	6019000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.22. Talvivaara Sotkamo Oy:n konkurssin aiheuttamien ympäristövahinkojen estäminen	0	50000000	50000000	50000000	50000000	50000000	0	
@@ -331,7 +331,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.05. Mittatekniikan keskuksen toimintamenot	5934000	0	5934000	5934000	5934000	5934000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.06. Innovaatiorahoituskeskus Tekesin toimintamenot	41284000	-160000	41124000	41124000	41124000	41124000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.07. Matkailun edistämiskeskuksen toimintamenot	10037000	0	10037000	10037000	10037000	10037000	0	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus-	 kehittämis- ja innovaatiotoiminnan tukeminen	405320000	0	405320000	405320000	386295556	87	386295556	87	19024443	13	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus- kehittämis- ja innovaatiotoiminnan tukeminen	405320000	0	405320000	405320000	386295556	87	386295556	87	19024443	13	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.41. Yleisavustus eräille yhteisöille ja järjestöille elinkeinopolitiikan edistämiseksi	26637000	35300000	61937000	61937000	61937000	61937000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.42. Kasvuekosysteemien ja innovatiivisten julkisten hankintojen kehittäminen	10600000	0	10600000	10600000	10600000	10600000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.43. Kansainvälistymisavustus yritysten yhteishankkeisiin	20515000	-1700000	18815000	18815000	14351319	14351319	4463681	
@@ -353,17 +353,17 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.50. Palkkaturva	37000000	4000000	41000000	41000000	35546196	28	35546196	28	5453803	72	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.51. Julkiset työvoima- ja yrityspalvelut	503975000	500000	504475000	504475000	504475000	504475000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.64. Työllisyysperusteiset siirtomenot investointeihin	7156000	0	7156000	7156000	7307163	7307163	-151163	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	11362000	0	11362000	11362000	11362000	11362000	0	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	2133000	0	2133000	2133000	1139773	91	1139773	91	993226	9	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.04. Kuluttajatutkimuskeskuksen toimintamenot	1864000	0	1864000	1864000	1864000	1864000	0	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	18557000	0	18557000	18557000	18557000	18557000	0	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	5011000	0	5011000	5011000	5011000	5011000	0	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	673000	0	673000	673000	673000	673000	0	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2080000	0	2080000	2080000	2079048	05	2079048	05	951	95	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	20000	0	20000	20000	10000	10000	10000	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	11362000	0	11362000	11362000	11362000	11362000	0	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	2133000	0	2133000	2133000	1139773	91	1139773	91	993226	9	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.04. Kuluttajatutkimuskeskuksen toimintamenot	1864000	0	1864000	1864000	1864000	1864000	0	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	18557000	0	18557000	18557000	18557000	18557000	0	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	5011000	0	5011000	5011000	5011000	5011000	0	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	673000	0	673000	673000	673000	673000	0	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2080000	0	2080000	2080000	2079048	05	2079048	05	951	95	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	20000	0	20000	20000	10000	10000	10000	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.43. Maakunnan kehittämisraha	6066000	0	6066000	6066000	6066000	6066000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.62. Maaseudun kehittäminen	2273000	0	2273000	2273000	2273000	2273000	0	
-2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto-	 ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	565590000	-60000000	505590000	505590000	433124273	55	433124273	55	72465726	45	
+2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto- ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	565590000	-60000000	505590000	505590000	433124273	55	433124273	55	72465726	45	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.01. Energiaviraston toimintamenot	8872000	0	8872000	8872000	8872000	8872000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.28. Materiaalitehokkuuden edistäminen	500000	0	500000	500000	500000	500000	0	
 2014	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.40. Energiatuki	72905000	-500000	72405000	72405000	51178146	46	51178146	46	21226853	54	
@@ -389,14 +389,14 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.04. Terveyden ja hyvinvoinnin laitoksen toimintamenot	67953000	150000	68103000	68103000	68103000	68103000	0	
 2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.50. Valtionapu Työterveyslaitoksen menoihin	36543000	0	36543000	36543000	36543000	36543000	0	
 2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.63. Eräät erityishankkeet	10130000	0	10130000	10130000	10130000	10130000	0	
-2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	11800000	0	11800000	11800000	9770000	9770000	2030000	
-2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.51. Lapsilisät	1486400000	0	1486400000	1486400000	1486400000	1486400000	0	
-2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	3300000	0	3300000	3300000	2868804	39	2868804	39	431195	61	
-2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.53. Sotilasavustus	20000000	0	20000000	20000000	16500000	16500000	3500000	
-2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.54. Asumistuki	726000000	20000000	746000000	746000000	740100000	740100000	5900000	
-2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.55. Elatustuki	188200000	3600000	191800000	191800000	192673967	06	192673967	06	-873967	6	
-2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	39000000	0	39000000	39000000	38976083	94	38976083	94	23916	6	
-2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.60. Kansaneläkelaitokselle maksettavat sosiaaliturvan yleisrahaston ja palvelurahaston toimintakulut	159700000	0	159700000	159700000	159600000	159600000	100000	
+2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	11800000	0	11800000	11800000	9770000	9770000	2030000	
+2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.51. Lapsilisät	1486400000	0	1486400000	1486400000	1486400000	1486400000	0	
+2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	3300000	0	3300000	3300000	2868804	39	2868804	39	431195	61	
+2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.53. Sotilasavustus	20000000	0	20000000	20000000	16500000	16500000	3500000	
+2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.54. Asumistuki	726000000	20000000	746000000	746000000	740100000	740100000	5900000	
+2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.55. Elatustuki	188200000	3600000	191800000	191800000	192673967	06	192673967	06	-873967	6	
+2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	39000000	0	39000000	39000000	38976083	94	38976083	94	23916	6	
+2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.60. Kansaneläkelaitokselle maksettavat sosiaaliturvan yleisrahaston ja palvelurahaston toimintakulut	159700000	0	159700000	159700000	159600000	159600000	100000	
 2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.31. Valtion korvaus kunnille kuntouttavan työtoiminnan järjestämisestä	26486000	0	26486000	26486000	19808752	85	19808752	85	6677247	15	
 2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.50. Valtionosuus ansiopäivärahasta	1004550000	12000000	1016550000	1016550000	990316717	54	990316717	54	26233282	46	
 2014	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.51. Valtionosuus peruspäivärahasta	244480000	10000000	254480000	254480000	254460000	254460000	20000	
@@ -458,10 +458,10 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2014	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.65. Öljyjätemaksulla rahoitettava öljyjätehuolto	1000000	0	1000000	1000000	1000000	1000000	0	
 2014	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.66. Kansainvälisen yhteistyön jäsenmaksut ja rahoitusosuudet	1324000	0	1324000	1324000	1324000	1324000	0	
 2014	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.70. Alusinvestoinnit	13500000	0	13500000	13500000	13500000	13500000	0	
-2014	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	5019000	0	5019000	5019000	5019000	5019000	0	
-2014	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.37. Avustukset kaavoitukseen ja maankäytön ohjaukseen	500000	0	500000	500000	500000	500000	0	
-2014	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.55. Avustukset korjaustoimintaan	43000000	0	43000000	43000000	43000000	43000000	0	
-2014	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	1350000	0	1350000	1350000	1350000	1350000	0	
+2014	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	5019000	0	5019000	5019000	5019000	5019000	0	
+2014	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.37. Avustukset kaavoitukseen ja maankäytön ohjaukseen	500000	0	500000	500000	500000	500000	0	
+2014	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.55. Avustukset korjaustoimintaan	43000000	0	43000000	43000000	43000000	43000000	0	
+2014	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	1350000	0	1350000	1350000	1350000	1350000	0	
 2014	36. Valtionvelan korot	36.01. Valtionvelan korko	36.01.90. Valtionvelan korko	1775000000	-76000000	1699000000	1699000000	1696226643	06	1696226643	06	2773356	94	
 2014	36. Valtionvelan korot	36.09. Muut menot valtionvelasta	36.09.20. Palkkiot ja muut menot valtionvelasta	38600000	0	38600000	38600000	17027907	32	17027907	32	21572092	68	
 2015	21. Eduskunta	21.01. Kansanedustajat	21.01.01. Kansanedustajien toimintamenot	21866000	0	21866000	21866000	21386726	58	21386726	58	479273	42	
@@ -484,7 +484,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	22. Tasavallan presidentti	22.02. Tasavallan presidentin kanslia	22.02.29. Arvonlisäveromenot	2500000	0	2500000	2500000	1187927	45	1187927	45	1312072	55	
 2015	22. Tasavallan presidentti	22.02. Tasavallan presidentin kanslia	22.02.75. Perusparannukset	5000000	0	5000000	5000000	5000000	5000000	0	
 2015	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.01. Valtioneuvoston kanslian toimintamenot	114712000	-145000	114567000	114567000	114567000	114567000	0	
-2015	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.02. Ministereiden	 heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset	6744000	0	6744000	6744000	5394240	84	5394240	84	1349759	16	
+2015	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.02. Ministereiden heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset	6744000	0	6744000	6744000	5394240	84	5394240	84	1349759	16	
 2015	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.03. Euroopan unionin kansallisten asiantuntijoiden palkkamenot	1000000	0	1000000	1000000	1000000	1000000	0	
 2015	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.20. Pääministerin ja hänen avustajiensa matkat	867000	0	867000	867000	278534	37	278534	37	588465	63	
 2015	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.22. Valtioneuvoston selvitys- ja tutkimustoiminta	6400000	0	6400000	6400000	6400000	6400000	0	
@@ -506,7 +506,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.51. Hädänalaisten avustaminen	45000	0	45000	45000	33680	17	33680	17	11319	83	
 2015	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.66. Eräät jäsenmaksut ja rahoitusosuudet	79455000	-5000000	74455000	74455000	74455000	74455000	0	
 2015	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.67. Kansainvälisen ilmastosopimuksen alaisen yhteistyön menot	100000	0	100000	100000	100000	100000	0	
-2015	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren	 Barentsin ja arktisen alueen yhteistyö	2100000	0	2100000	2100000	2100000	2100000	0	
+2015	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren Barentsin ja arktisen alueen yhteistyö	2100000	0	2100000	2100000	2100000	2100000	0	
 2015	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.95. Kurssivaihtelut	1000000	0	1000000	1000000	-394816	89	-394816	89	1394816	89	
 2015	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.01. Oikeusministeriön toimintamenot	22775000	-100000	22675000	22675000	22675000	22675000	0	
 2015	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.03. Oikeusministeriön yhteydessä toimivien viranomaisten toimintamenot	6733000	0	6733000	6733000	6733000	6733000	0	
@@ -522,7 +522,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.03. Muiden tuomioistuinten toimintamenot	247710000	266000	247976000	247976000	247976000	247976000	0	
 2015	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.04. Oikeusaputoimistojen ja kuluttajariitalautakunnan toimintamenot	60076000	0	60076000	60076000	60076000	60076000	0	
 2015	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.50. Yksityisille oikeusavustajille maksettavat korvaukset	45020000	23100000	68120000	68120000	65109777	17	65109777	17	3010222	83	
-2015	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt	 ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	103723000	0	103723000	103723000	103723000	103723000	0	
+2015	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	103723000	0	103723000	103723000	103723000	103723000	0	
 2015	25. Oikeusministeriön hallinnonala	25.30. Syyttäjät	25.30.01. Syyttäjälaitoksen toimintamenot	46223000	0	46223000	46223000	46223000	46223000	0	
 2015	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.01. Rikosseuraamuslaitoksen toimintamenot	228946000	-25000	228921000	228921000	228921000	228921000	0	
 2015	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.74. Avolaitostyöt	5400000	0	5400000	5400000	5400000	5400000	0	
@@ -577,9 +577,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.08. Valtion talous- ja henkilöstöhallinnon palvelukeskuksen kehittäminen	4241000	0	4241000	4241000	4241000	4241000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.09. Valtion tieto- ja viestintätekniikkakeskuksen toimintamenot	3000000	0	3000000	3000000	3000000	3000000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.10. Valtion tieto- ja viestintätekniikkakeskuksen investointimenot	10000000	0	10000000	10000000	10000000	10000000	0	
-2015	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	50356000	0	50356000	50356000	50356000	50356000	0	
-2015	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	4044000	100000	4144000	4144000	4144000	4144000	0	
-2015	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	8314000	-330000	7984000	7984000	7984000	7984000	0	
+2015	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	50356000	0	50356000	50356000	50356000	50356000	0	
+2015	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	4044000	100000	4144000	4144000	4144000	4144000	0	
+2015	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	8314000	-330000	7984000	7984000	7984000	7984000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.01. Aluehallintoviraston toimintamenot	58524000	-25000	58499000	58499000	58499000	58499000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.02. Maistraattien toimintamenot	31092000	1400000	32492000	32492000	32492000	32492000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.03. Alue- ja paikallishallinnon tukitoimet	1782000	0	1782000	1782000	1782000	1782000	0	
@@ -594,7 +594,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.12. Osaamisen kehittäminen	0	8000000	8000000	8000000	8000000	8000000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.60. Siirto Koulutusrahastolle	200000	0	200000	200000	177600	177600	22400	
 2015	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.01. Valtion ICT:n ohjaus ja kehittäminen	4600000	0	4600000	4600000	4600000	4600000	0	
-2015	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous-	 henkilöstö- ja toimitilahallinnon tietojärjestelmät	10560000	0	10560000	10560000	10560000	10560000	0	
+2015	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous- henkilöstö- ja toimitilahallinnon tietojärjestelmät	10560000	0	10560000	10560000	10560000	10560000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.03. Kansallisen tietoalan ohjaus ja kehittäminen	32000000	0	32000000	32000000	32000000	32000000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.04. Yhteiskunnan elintärkeiden toimintojen tietojärjestelmien tietoturvallisuus ja varautuminen	8600000	0	8600000	8600000	8600000	8600000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.20. Tuottavuuden edistäminen	12535000	-2880000	9655000	9655000	9655000	9655000	0	
@@ -619,16 +619,16 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.96. Ennakoimattomat menot	5000000	0	5000000	5000000	5000000	5000000	0	
 2015	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.97. Valtion saatavien turvaaminen	150000	0	150000	150000	105756	94	105756	94	44243	6	
 2015	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.98. Kassasijoitusten riskienhallinta	10000000	0	10000000	10000000	10000000	10000000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	20645000	207000	20852000	20852000	20852000	20852000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	22235000	880000	23115000	23115000	23025420	83	23025420	83	89579	17	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.03. Kansainvälisen liikkuvuuden ja yhteistyön keskuksen CIMOn toimintamenot	8422000	0	8422000	8422000	8422000	8422000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.04. Kansallisen koulutuksen arviointikeskuksen toimintamenot	3891000	0	3891000	3891000	3891000	3891000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3526000	0	3526000	3526000	3526000	3526000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.22. Eräät käyttöoikeuskorvaukset	22488000	0	22488000	22488000	22488000	22488000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	29198000	0	29198000	29198000	32031810	58	32031810	58	-2833810	58	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	998000	0	998000	998000	998000	998000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3293000	100000	3393000	3393000	3388500	3388500	4500	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2198000	0	2198000	2198000	2233537	84	2233537	84	-35537	84	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	20645000	207000	20852000	20852000	20852000	20852000	0	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	22235000	880000	23115000	23115000	23025420	83	23025420	83	89579	17	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.03. Kansainvälisen liikkuvuuden ja yhteistyön keskuksen CIMOn toimintamenot	8422000	0	8422000	8422000	8422000	8422000	0	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.04. Kansallisen koulutuksen arviointikeskuksen toimintamenot	3891000	0	3891000	3891000	3891000	3891000	0	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3526000	0	3526000	3526000	3526000	3526000	0	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.22. Eräät käyttöoikeuskorvaukset	22488000	0	22488000	22488000	22488000	22488000	0	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	29198000	0	29198000	29198000	32031810	58	32031810	58	-2833810	58	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	998000	0	998000	998000	998000	998000	0	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3293000	100000	3393000	3393000	3388500	3388500	4500	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2198000	0	2198000	2198000	2233537	84	2233537	84	-35537	84	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus	29.10.01. Valtion yleissivistävän koulutuksen toimintamenot	46754000	0	46754000	46754000	46754000	46754000	0	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus	29.10.02. Ylioppilastutkintolautakunnan toimintamenot	2270000	0	2270000	2270000	2270000	2270000	0	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus	29.10.20. Yleissivistävän koulutuksen ja lasten päivähoidon kehittäminen	10697000	-90000	10607000	10607000	10607000	10607000	0	
@@ -675,13 +675,13 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.30. Valtionavustukset yleisten kirjastojen toimintaan	4750000	0	4750000	4750000	4750000	4750000	0	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.31. Valtionosuus ja -avustus teattereiden ja orkestereiden käyttökustannuksiin	38401000	0	38401000	38401000	38401000	38401000	0	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.32. Valtionosuudet ja -avustukset museoille	16411000	0	16411000	16411000	16411000	16411000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.33. Valtionavustukset kuntien ja alueiden kulttuuritoiminnan kehittämiseen	106000	0	106000	106000	106000	106000	0	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.33. Valtionavustukset kuntien ja alueiden kulttuuritoiminnan kehittämiseen	106000	0	106000	106000	106000	106000	0	0	0	0
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.34. Valtionosuus ja -avustus yleisten kirjastojen perustamiskustannuksiin	4500000	0	4500000	4500000	4500000	4500000	0	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.35. Valtionavustus Suomen itsenäisyyden 100-vuotisjuhlavuoden merkkihankkeen perustamiskustannuksiin	5000000	0	5000000	5000000	5000000	5000000	0	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.40. Korvaus Suomenlinnan huoltoliikenteen käyttötappioon	252000	0	252000	252000	98550	98550	153450	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.41. Yksityisen kopioinnin hyvitys	11000000	0	11000000	11000000	11000000	11000000	0	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.50. Eräät avustukset	1122000	0	1122000	1122000	1122000	1122000	0	
-2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille	 kirjailijoille ja kääntäjille	14470000	0	14470000	14470000	14047447	97	14047447	97	422552	3	
+2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille kirjailijoille ja kääntäjille	14470000	0	14470000	14470000	14047447	97	14047447	97	422552	3	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.52. Veikkauksen ja raha-arpajaisten voittovarat taiteen edistämiseen	236962000	0	236962000	236962000	236874368	97	236874368	97	87631	3	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.53. Valtionavustus tilakustannuksiin	29837000	0	29837000	29837000	29133407	29133407	703593	
 2015	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.54. Valtionavustus taide- ja kulttuurilaitosten toimitilainvestointeihin	8177000	0	8177000	8177000	8176266	8176266	734	
@@ -721,7 +721,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.40. Maa- ja puutarhatalouden kansallinen tuki	325400000	-650000	324750000	324750000	324750000	324750000	0	
 2015	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.41. EU-tulotuki ja EU-markkinatuki	531000000	-19000000	512000000	512000000	457907950	28	457907950	28	54092049	72	
 2015	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.42. Eräät korvaukset	230000	3400000	3630000	3630000	3630000	3630000	0	
-2015	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.43. Ympäristökorvaukset	 luonnonmukainen tuotanto	 neuvonta ja ei-tuotannolliset investoinnit	338334000	0	338334000	338334000	338334000	338334000	0	
+2015	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.43. Ympäristökorvaukset luonnonmukainen tuotanto neuvonta ja ei-tuotannolliset investoinnit	338334000	0	338334000	338334000	338334000	338334000	0	
 2015	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.44. Luonnonhaittakorvaukset	551888000	0	551888000	551888000	551888000	551888000	0	
 2015	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.46. EU:n osarahoittama ruokaketjun kehittäminen	3605000	0	3605000	3605000	3605000	3605000	0	
 2015	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.47. Kansallinen ruokaketjun kehittäminen	3509000	400000	3909000	3909000	3909000	3909000	0	
@@ -780,7 +780,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.60. Siirto valtion televisio- ja radiorahastoon	507948000	0	507948000	507948000	507948000	507948000	0	
 2015	31. Liikenne- ja viestintäministeriön hallinnonala	31.50. Tutkimus	31.50.01. Ilmatieteen laitoksen toimintamenot	45428000	3500000	48928000	48928000	48928000	48928000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.01. Työ- ja elinkeinoministeriön toimintamenot	40725000	-137000	40588000	40588000	40588000	40588000	0	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino-	 liikenne- ja ympäristökeskusten toimintamenot	213161000	1274000	214435000	214435000	214435000	214435000	0	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino- liikenne- ja ympäristökeskusten toimintamenot	213161000	1274000	214435000	214435000	214435000	214435000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.20. Siviilipalvelus	4939000	0	4939000	4939000	4191669	52	4191669	52	747330	48	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.21. Työ- ja elinkeinoministeriön hallinnonalan tuottavuusmääräraha	663000	-125000	538000	538000	538000	538000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.22. Talvivaara Sotkamo Oy:n konkurssin aiheuttamien ympäristövahinkojen estäminen	0	100000000	100000000	100000000	100000000	100000000	0	
@@ -792,7 +792,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.89. Osakehankinnat	0	209000000	209000000	209000000	209000000	209000000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.01. Geologian tutkimuskeskuksen toimintamenot	36110000	0	36110000	36110000	36110000	36110000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.06. Innovaatiorahoituskeskus Tekesin toimintamenot	40372000	200000	40572000	40572000	40572000	40572000	0	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus-	 kehittämis- ja innovaatiotoiminnan tukeminen	367571000	0	367571000	367571000	367194625	03	367194625	03	376374	97	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus- kehittämis- ja innovaatiotoiminnan tukeminen	367571000	0	367571000	367571000	367194625	03	367194625	03	376374	97	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.41. Valtionavustus yritysten kansainvälistymisen ja kasvun edistämiseen	51792000	303000	52095000	52095000	52095000	52095000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.42. Kasvuekosysteemien ja innovatiivisten julkisten hankintojen kehittäminen	9800000	0	9800000	9800000	9800000	9800000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.43. Kansainvälistymisavustus yritysten yhteishankkeisiin	14518000	0	14518000	14518000	11051000	11051000	3467000	
@@ -812,15 +812,15 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.50. Palkkaturva	43000000	0	43000000	43000000	27501430	94	27501430	94	15498569	6	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.51. Julkiset työvoima- ja yrityspalvelut	563899000	24400000	588299000	588299000	588299000	588299000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.64. Työllisyysperusteiset siirtomenot investointeihin	8000000	0	8000000	8000000	5715826	5715826	2284174	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	10820000	0	10820000	10820000	10820000	10820000	0	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	2016000	-116000	1900000	1900000	-2118330	59	-2118330	59	4018330	59	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	18613000	64000	18677000	18677000	18677000	18677000	0	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	5731000	0	5731000	5731000	5731000	5731000	0	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	873000	0	873000	873000	873000	873000	0	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2572000	0	2572000	2572000	2524310	04	2524310	04	47689	96	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	20000	0	20000	20000	40000	40000	-20000	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	10820000	0	10820000	10820000	10820000	10820000	0	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	2016000	-116000	1900000	1900000	-2118330	59	-2118330	59	4018330	59	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	18613000	64000	18677000	18677000	18677000	18677000	0	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	5731000	0	5731000	5731000	5731000	5731000	0	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	873000	0	873000	873000	873000	873000	0	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2572000	0	2572000	2572000	2524310	04	2524310	04	47689	96	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	20000	0	20000	20000	40000	40000	-20000	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.62. Maaseudun kehittäminen	1698000	0	1698000	1698000	1698000	1698000	0	
-2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto-	 ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	444990000	-60000000	384990000	384990000	344969639	38	344969639	38	40020360	62	
+2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto- ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	444990000	-60000000	384990000	384990000	344969639	38	344969639	38	40020360	62	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.01. Energiaviraston toimintamenot	8994000	0	8994000	8994000	8994000	8994000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.28. Materiaalitehokkuuden edistäminen	500000	0	500000	500000	500000	500000	0	
 2015	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.40. Energiatuki	80908000	-15440000	65468000	65468000	45931531	35	45931531	35	19536468	65	
@@ -847,14 +847,14 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.04. Terveyden ja hyvinvoinnin laitoksen toimintamenot	60412000	0	60412000	60412000	60412000	60412000	0	
 2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.50. Valtionapu Työterveyslaitoksen menoihin	33287000	0	33287000	33287000	33287000	33287000	0	
 2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.63. Eräät erityishankkeet	7562000	0	7562000	7562000	7562000	7562000	0	
-2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	11700000	0	11700000	11700000	10320000	10320000	1380000	
-2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.51. Lapsilisät	1377800000	0	1377800000	1377800000	1377800000	1377800000	0	
-2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	3300000	0	3300000	3300000	2903744	74	2903744	74	396255	26	
-2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.53. Sotilasavustus	19200000	0	19200000	19200000	17100000	17100000	2100000	
-2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.54. Asumistuki	847300000	80000000	927300000	927300000	924300000	924300000	3000000	
-2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.55. Elatustuki	195600000	12200000	207800000	207800000	202277531	87	202277531	87	5522468	13	
-2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	41500000	0	41500000	41500000	41499900	26	41499900	26	99	74	
-2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.60. Kansaneläkelaitokselle maksettavat sosiaaliturvan yleisrahaston ja palvelurahaston toimintakulut	152400000	0	152400000	152400000	152300000	152300000	100000	
+2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	11700000	0	11700000	11700000	10320000	10320000	1380000	
+2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.51. Lapsilisät	1377800000	0	1377800000	1377800000	1377800000	1377800000	0	
+2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	3300000	0	3300000	3300000	2903744	74	2903744	74	396255	26	
+2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.53. Sotilasavustus	19200000	0	19200000	19200000	17100000	17100000	2100000	
+2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.54. Asumistuki	847300000	80000000	927300000	927300000	924300000	924300000	3000000	
+2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.55. Elatustuki	195600000	12200000	207800000	207800000	202277531	87	202277531	87	5522468	13	
+2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	41500000	0	41500000	41500000	41499900	26	41499900	26	99	74	
+2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.60. Kansaneläkelaitokselle maksettavat sosiaaliturvan yleisrahaston ja palvelurahaston toimintakulut	152400000	0	152400000	152400000	152300000	152300000	100000	
 2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.31. Valtion korvaus kunnille kuntouttavan työtoiminnan järjestämisestä	34054000	0	34054000	34054000	22893406	71	22893406	71	11160593	29	
 2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.50. Valtionosuus ansiopäivärahasta	1007000000	93000000	1100000000	1100000000	1083356790	62	1083356790	62	16643209	38	
 2015	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.51. Valtionosuus peruspäivärahasta	174000000	61000000	235000000	235000000	234065000	234065000	935000	
@@ -918,8 +918,8 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2015	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.65. Öljyjätemaksulla rahoitettava öljyjätehuolto	1000000	0	1000000	1000000	1000000	1000000	0	
 2015	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.66. Kansainvälisen yhteistyön jäsenmaksut ja rahoitusosuudet	1440000	0	1440000	1440000	1440000	1440000	0	
 2015	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.70. Alusinvestoinnit	1450000	0	1450000	1450000	1450000	1450000	0	
-2015	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	4943000	0	4943000	4943000	4943000	4943000	0	
-2015	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	850000	0	850000	850000	850000	850000	0	
+2015	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	4943000	0	4943000	4943000	4943000	4943000	0	
+2015	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	850000	0	850000	850000	850000	850000	0	
 2015	36. Valtionvelan korot	36.01. Valtionvelan korko	36.01.90. Valtionvelan korko	1729000000	-173000000	1556000000	1556000000	1523591805	41	1523591805	41	32408194	59	
 2015	36. Valtionvelan korot	36.09. Muut menot valtionvelasta	36.09.20. Palkkiot ja muut menot valtionvelasta	37100000	0	37100000	37100000	6496767	96	6496767	96	30603232	4	
 2016	21. Eduskunta	21.01. Kansanedustajat	21.01.01. Kansanedustajien toimintamenot	21783000	0	21783000	21783000	21157526	66	21157526	66	625473	34	
@@ -942,9 +942,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	22. Tasavallan presidentti	22.02. Tasavallan presidentin kanslia	22.02.02. Eläkkeellä olevien presidenttien menot	600000	0	600000	600000	600000	600000	0	
 2016	22. Tasavallan presidentti	22.02. Tasavallan presidentin kanslia	22.02.29. Arvonlisäveromenot	2500000	0	2500000	2500000	870981	53	870981	53	1629018	47	
 2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.01. Valtioneuvoston kanslian toimintamenot	125086000	-73000	125013000	125013000	125013000	125013000	0	
-2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.02. Ministereiden	 heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset	5575000	0	5575000	5575000	5351173	43	5351173	43	223826	57	
+2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.02. Ministereiden heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset	5575000	0	5575000	5575000	5351173	43	5351173	43	223826	57	
 2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.03. Euroopan unionin kansallisten asiantuntijoiden palkkamenot	1000000	0	1000000	1000000	1000000	1000000	0	
-2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.20. Pääministerin	 kansliassa toimivien ministereiden ja heidän avustajiensa matkat	867000	0	867000	867000	495789	43	495789	43	371210	57	
+2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.20. Pääministerin kansliassa toimivien ministereiden ja heidän avustajiensa matkat	867000	0	867000	867000	495789	43	495789	43	371210	57	
 2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.22. Valtioneuvoston selvitys- ja tutkimustoiminta	11400000	0	11400000	11400000	11400000	11400000	0	
 2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.23. Kokeilutoiminnan digitaalinen edistäminen	0	2000000	2000000	2000000	2000000	2000000	0	
 2016	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.29. Arvonlisäveromenot	19435000	0	19435000	19435000	14941893	96	14941893	96	4493106	4	
@@ -966,7 +966,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.51. Hädänalaisten avustaminen	45000	0	45000	45000	24480	11	24480	11	20519	89	
 2016	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.66. Eräät jäsenmaksut ja rahoitusosuudet	86961000	0	86961000	86961000	86961000	86961000	0	
 2016	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.67. Kansainvälisen ilmastosopimuksen alaisen yhteistyön menot	100000	0	100000	100000	100000	100000	0	
-2016	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren	 Barentsin ja arktisen alueen yhteistyö	1600000	0	1600000	1600000	1600000	1600000	0	
+2016	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren Barentsin ja arktisen alueen yhteistyö	1600000	0	1600000	1600000	1600000	1600000	0	
 2016	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.95. Kurssivaihtelut	1000000	0	1000000	1000000	-525118	77	-525118	77	1525118	77	
 2016	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.01. Oikeusministeriön toimintamenot	21608000	-180000	21428000	21428000	21428000	21428000	0	
 2016	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.03. Oikeusministeriön yhteydessä toimivien viranomaisten toimintamenot	7457000	-49000	7408000	7408000	7408000	7408000	0	
@@ -982,7 +982,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.03. Muiden tuomioistuinten toimintamenot	262764000	-1626000	261138000	261138000	261138000	261138000	0	
 2016	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.04. Oikeusaputoimistojen ja kuluttajariitalautakunnan toimintamenot	60765000	1084000	61849000	61849000	61849000	61849000	0	
 2016	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.50. Yksityisille oikeusavustajille maksettavat korvaukset	70800000	4300000	75100000	75100000	75320579	79	75320579	79	-220579	79	
-2016	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt	 ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	110922000	-822000	110100000	110100000	110100000	110100000	0	
+2016	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	110922000	-822000	110100000	110100000	110100000	110100000	0	
 2016	25. Oikeusministeriön hallinnonala	25.30. Syyttäjät	25.30.01. Syyttäjälaitoksen toimintamenot	46992000	-302000	46690000	46690000	46690000	46690000	0	
 2016	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.01. Rikosseuraamuslaitoksen toimintamenot	211426000	-250000	211176000	211176000	211176000	211176000	0	
 2016	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.74. Avolaitostyöt	5400000	0	5400000	5400000	5400000	5400000	0	
@@ -1035,9 +1035,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.09. Valtion tieto- ja viestintätekniikkakeskuksen toimintamenot	3000000	0	3000000	3000000	3000000	3000000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.10. Valtion tieto- ja viestintätekniikkakeskuksen investointimenot	10000000	-5000000	5000000	5000000	5000000	5000000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.11. Valtion tieto- ja viestintätekniikkakeskuksen toiminnan turvaaminen	0	2000000	2000000	2000000	2000000	2000000	0	
-2016	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	50546000	-367000	50179000	50179000	50179000	50179000	0	
-2016	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	3740000	-26000	3714000	3714000	3714000	3714000	0	
-2016	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	7648000	-25000	7623000	7623000	7623000	7623000	0	
+2016	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	50546000	-367000	50179000	50179000	50179000	50179000	0	
+2016	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	3740000	-26000	3714000	3714000	3714000	3714000	0	
+2016	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	7648000	-25000	7623000	7623000	7623000	7623000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.01. Aluehallintoviraston toimintamenot	56361000	-339000	56022000	56022000	56022000	56022000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.02. Maistraattien toimintamenot	31088000	23000	31111000	31111000	31111000	31111000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.03. Alue- ja paikallishallinnon tukitoimet	622000	0	622000	622000	622000	622000	0	
@@ -1052,7 +1052,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.12. Osaamisen kehittäminen	11000000	4500000	15500000	15500000	15500000	15500000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.60. Siirto Koulutusrahastolle	230000	0	230000	230000	202081	202081	27919	
 2016	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.01. Valtion ICT:n ohjaus ja kehittäminen	3000000	800000	3800000	3800000	3800000	3800000	0	
-2016	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous-	 henkilöstö- ja toimitilahallinnon tietojärjestelmät	12260000	0	12260000	12260000	12260000	12260000	0	
+2016	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous- henkilöstö- ja toimitilahallinnon tietojärjestelmät	12260000	0	12260000	12260000	12260000	12260000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.03. Kansallisen tietoalan ohjaus ja kehittäminen	27500000	0	27500000	27500000	27500000	27500000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.20. Tuottavuuden edistäminen	35199000	-17400000	17799000	17799000	17799000	17799000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.21. Kansallisen tulorekisterin toteutus	5855000	10000000	15855000	15855000	15855000	15855000	0	
@@ -1077,18 +1077,18 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.96. Ennakoimattomat menot	5000000	0	5000000	5000000	5000000	5000000	0	
 2016	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.97. Valtion saatavien turvaaminen	150000	0	150000	150000	119893	01	119893	01	30106	99	
 2016	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.98. Kassasijoitusten riskienhallinta	2000000	38000000	40000000	40000000	40000000	40000000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	19203000	528000	19731000	19731000	19731000	19731000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	21883000	-182000	21701000	21701000	21701000	21701000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.03. Kansainvälisen liikkuvuuden ja yhteistyön keskuksen CIMOn toimintamenot	8237000	-7000	8230000	8230000	8230000	8230000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.04. Kansallisen koulutuksen arviointikeskuksen toimintamenot	3863000	-23000	3840000	3840000	3840000	3840000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3543000	0	3543000	3543000	3543000	3543000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.22. Eräät käyttöoikeuskorvaukset	14263000	0	14263000	14263000	14263000	14263000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	28489000	0	28489000	28489000	29069546	45	29069546	45	-580546	45	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	1279000	0	1279000	1279000	1148000	1148000	131000	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3321000	0	3321000	3321000	3321000	3321000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.52. Valtion rahoitus evankelis-luterilaisen kirkon yhteiskunnallisiin tehtäviin	114000000	0	114000000	114000000	114000000	114000000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.53. Eräät turvapaikanhakijoista ja maahanmuuttajista aiheutuvat avustukset	2190000	0	2190000	2190000	2190000	2190000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2226000	0	2226000	2226000	2007972	56	2007972	56	218027	44	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	19203000	528000	19731000	19731000	19731000	19731000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	21883000	-182000	21701000	21701000	21701000	21701000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.03. Kansainvälisen liikkuvuuden ja yhteistyön keskuksen CIMOn toimintamenot	8237000	-7000	8230000	8230000	8230000	8230000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.04. Kansallisen koulutuksen arviointikeskuksen toimintamenot	3863000	-23000	3840000	3840000	3840000	3840000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3543000	0	3543000	3543000	3543000	3543000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.22. Eräät käyttöoikeuskorvaukset	14263000	0	14263000	14263000	14263000	14263000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	28489000	0	28489000	28489000	29069546	45	29069546	45	-580546	45	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	1279000	0	1279000	1279000	1148000	1148000	131000	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3321000	0	3321000	3321000	3321000	3321000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.52. Valtion rahoitus evankelis-luterilaisen kirkon yhteiskunnallisiin tehtäviin	114000000	0	114000000	114000000	114000000	114000000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.53. Eräät turvapaikanhakijoista ja maahanmuuttajista aiheutuvat avustukset	2190000	0	2190000	2190000	2190000	2190000	0	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2226000	0	2226000	2226000	2007972	56	2007972	56	218027	44	
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.01. Valtion yleissivistävän koulutuksen toimintamenot	43816000	-734000	43082000	43082000	43082000	43082000	0	
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.02. Ylioppilastutkintolautakunnan toimintamenot	2334000	-4000	2330000	2330000	2330000	2330000	0	
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.20. Yleissivistävän koulutuksen ja varhaiskasvatuksen yhteiset menot	17672000	0	17672000	17672000	17672000	17672000	0	
@@ -1137,7 +1137,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.40. Korvaus Suomenlinnan huoltoliikenteen käyttötappioon	252000	0	252000	252000	240000	240000	12000	
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.41. Eräät käyttöoikeuskorvaukset	20313000	0	20313000	20313000	20313000	20313000	0	
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.50. Eräät avustukset	4521000	0	4521000	4521000	4521000	4521000	0	
-2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille	 kirjailijoille ja kääntäjille	14507000	0	14507000	14507000	13994906	57	13994906	57	512093	43	
+2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille kirjailijoille ja kääntäjille	14507000	0	14507000	14507000	13994906	57	13994906	57	512093	43	
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.52. Veikkauksen ja raha-arpajaisten voittovarat taiteen edistämiseen	233322000	0	233322000	233322000	233260678	19	233260678	19	61321	81	
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.53. Valtionavustus tilakustannuksiin	24669000	11000	24680000	24680000	24548984	24548984	131016	
 2016	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.54. Valtionavustus taide- ja kulttuurilaitosten toimitilainvestointeihin	5300000	0	5300000	5300000	5300000	5300000	0	
@@ -1175,7 +1175,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.40. Maa- ja puutarhatalouden kansallinen tuki	321700000	0	321700000	321700000	321700000	321700000	0	
 2016	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.41. EU-tulotuki ja EU-markkinatuki	597000000	0	597000000	597000000	587810344	89	587810344	89	9189655	11	
 2016	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.42. Eräät korvaukset	4500000	0	4500000	4500000	4500000	4500000	0	
-2016	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.43. Ympäristökorvaukset	 luonnonmukainen tuotanto	 neuvonta ja ei-tuotannolliset investoinnit	300043000	0	300043000	300043000	300043000	300043000	0	
+2016	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.43. Ympäristökorvaukset luonnonmukainen tuotanto neuvonta ja ei-tuotannolliset investoinnit	300043000	0	300043000	300043000	300043000	300043000	0	
 2016	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.44. Luonnonhaittakorvaukset	546888000	0	546888000	546888000	546888000	546888000	0	
 2016	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.46. EU:n osarahoittama ruokaketjun kehittäminen	3405000	900000	4305000	4305000	4305000	4305000	0	
 2016	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.47. Kansallinen ruokaketjun kehittäminen	2299000	0	2299000	2299000	2299000	2299000	0	
@@ -1226,7 +1226,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.60. Siirto valtion televisio- ja radiorahastoon	507948000	0	507948000	507948000	507948000	507948000	0	
 2016	31. Liikenne- ja viestintäministeriön hallinnonala	31.50. Tutkimus	31.50.01. Ilmatieteen laitoksen toimintamenot	44352000	-229000	44123000	44123000	44122999	28	44122999	28	0	72	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.01. Työ- ja elinkeinoministeriön toimintamenot	33645000	-86000	33559000	33559000	33559000	33559000	0	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino-	 liikenne- ja ympäristökeskusten toimintamenot	193120000	35000	193155000	193155000	193011672	38	193011672	38	143327	62	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino- liikenne- ja ympäristökeskusten toimintamenot	193120000	35000	193155000	193155000	193011672	38	193011672	38	143327	62	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.20. Siviilipalvelus	4939000	0	4939000	4939000	3695197	33	3695197	33	1243802	67	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.21. Työ- ja elinkeinoministeriön hallinnonalan tuottavuusmääräraha	616000	1700000	2316000	2316000	2316000	2316000	0	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.29. Työ- ja elinkeinoministeriön hallinnonalan arvonlisäveromenot	30622000	3000000	33622000	33622000	35738600	28	35738600	28	-2116600	28	
@@ -1240,7 +1240,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.01. Geologian tutkimuskeskuksen toimintamenot	32890000	-225000	32665000	32665000	32665000	32665000	0	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.06. Innovaatiorahoituskeskus Tekesin toimintamenot	38448000	-296000	38152000	38152000	38152000	38152000	0	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.28. Materiaalitehokkuuden edistäminen	500000	0	500000	500000	500000	500000	0	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus-	 kehittämis- ja innovaatiotoiminnan tukeminen	330370000	5000000	335370000	335370000	335351786	28	335351786	28	18213	72	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus- kehittämis- ja innovaatiotoiminnan tukeminen	330370000	5000000	335370000	335370000	335351786	28	335351786	28	18213	72	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.41. Valtionavustus Finpron toimintaan	35600000	0	35600000	35600000	35600000	35600000	0	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.42. Kasvuekosysteemien ja innovatiivisten julkisten hankintojen kehittäminen	7024000	0	7024000	7024000	7024000	7024000	0	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.43. Kansainvälistymisavustus yritysten yhteishankkeisiin	8018000	1110000	9128000	9128000	7004248	7004248	2123752	
@@ -1259,16 +1259,16 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.45. Yritysten kehittämishankkeiden tukeminen	30218000	0	30218000	30218000	25149760	85	25149760	85	5068239	15	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.51. Julkiset työvoima- ja yrityspalvelut	585395000	13100000	598495000	598495000	598495000	598495000	0	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.64. Työllisyysperusteiset siirtomenot investointeihin	6000000	0	6000000	6000000	5638731	5638731	361269	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	10058000	-89000	9969000	9969000	9969000	9969000	0	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	4541000	0	4541000	4541000	-2919589	49	-2919589	49	7460589	49	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	19781000	-134000	19647000	19647000	19647000	19647000	0	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	4731000	0	4731000	4731000	4731000	4731000	0	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	897000	0	897000	897000	897000	897000	0	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2572000	0	2572000	2572000	2085413	36	2085413	36	486586	64	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.52. Palkkaturva	43000000	0	43000000	43000000	30696859	77	30696859	77	12303140	23	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	20000	300000	320000	320000	300000	300000	20000	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	10058000	-89000	9969000	9969000	9969000	9969000	0	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	4541000	0	4541000	4541000	-2919589	49	-2919589	49	7460589	49	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	19781000	-134000	19647000	19647000	19647000	19647000	0	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	4731000	0	4731000	4731000	4731000	4731000	0	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	897000	0	897000	897000	897000	897000	0	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2572000	0	2572000	2572000	2085413	36	2085413	36	486586	64	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.52. Palkkaturva	43000000	0	43000000	43000000	30696859	77	30696859	77	12303140	23	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	20000	300000	320000	320000	300000	300000	20000	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.40. Alueellisten innovaatioiden ja kokeilujen käynnistäminen	15000000	0	15000000	15000000	15000000	15000000	0	
-2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto-	 ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	242324000	20000000	262324000	262324000	240700953	48	240700953	48	21623046	52	
+2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto- ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	242324000	20000000	262324000	262324000	240700953	48	240700953	48	21623046	52	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.01. Energiaviraston toimintamenot	8857000	-36000	8821000	8821000	8821000	8821000	0	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.40. Energiatuki	76402000	-16000000	60402000	60402000	53572474	35	53572474	35	6829525	65	
 2016	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.41. LNG-terminaalien investointituki	41750000	-18139000	23611000	23611000	23610148	23610148	852	
@@ -1298,14 +1298,14 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.31. Hyvinvoinnin ja terveyden edistäminen	23500000	12800000	36300000	36300000	36300000	36300000	0	
 2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.50. Valtionapu Työterveyslaitoksen menoihin	25280000	0	25280000	25280000	25280000	25280000	0	
 2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.63. Eräät erityishankkeet	5562000	-55000	5507000	5507000	5507000	5507000	0	
-2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	11300000	0	11300000	11300000	10455000	10455000	845000	
-2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.51. Lapsilisät	1383000000	1610000	1384610000	1384610000	1372800000	1372800000	11810000	
-2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	3300000	0	3300000	3300000	2473821	37	2473821	37	826178	63	
-2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.53. Sotilasavustus	18400000	0	18400000	18400000	16000000	16000000	2400000	
-2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.54. Asumistuki	1042100000	26210000	1068310000	1068310000	1075310000	1075310000	-7000000	
-2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.55. Elatustuki	214100000	0	214100000	214100000	204714399	17	204714399	17	9385600	83	
-2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	44800000	0	44800000	44800000	42373203	64	42373203	64	2426796	36	
-2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.60. Kansaneläkelaitoksen sosiaaliturvarahastojen toimintakulut	319480000	1000	319481000	319481000	319481000	319481000	0	
+2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	11300000	0	11300000	11300000	10455000	10455000	845000	
+2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.51. Lapsilisät	1383000000	1610000	1384610000	1384610000	1372800000	1372800000	11810000	
+2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	3300000	0	3300000	3300000	2473821	37	2473821	37	826178	63	
+2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.53. Sotilasavustus	18400000	0	18400000	18400000	16000000	16000000	2400000	
+2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.54. Asumistuki	1042100000	26210000	1068310000	1068310000	1075310000	1075310000	-7000000	
+2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.55. Elatustuki	214100000	0	214100000	214100000	204714399	17	204714399	17	9385600	83	
+2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	44800000	0	44800000	44800000	42373203	64	42373203	64	2426796	36	
+2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.60. Kansaneläkelaitoksen sosiaaliturvarahastojen toimintakulut	319480000	1000	319481000	319481000	319481000	319481000	0	
 2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.31. Valtion korvaus kunnille kuntouttavan työtoiminnan järjestämisestä	31784000	0	31784000	31784000	23018222	05	23018222	05	8765777	95	
 2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.50. Valtionosuus ansiopäivärahasta	1087000000	31600000	1118600000	1118600000	1096597001	4	1096597001	4	22002998	6	
 2016	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.51. Valtionosuus peruspäivärahasta	214000000	0	214000000	214000000	178900000	178900000	35100000	
@@ -1366,10 +1366,10 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2016	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.65. Öljyjätemaksulla rahoitettava öljyjätehuolto	1000000	0	1000000	1000000	1000000	1000000	0	
 2016	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.66. Kansainvälisen yhteistyön jäsenmaksut ja rahoitusosuudet	1440000	0	1440000	1440000	1440000	1440000	0	
 2016	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.70. Alusinvestoinnit	7500000	0	7500000	7500000	7500000	7500000	0	
-2016	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	4956000	-25000	4931000	4931000	4931000	4931000	0	
-2016	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.02. Rakennetun ympäristön ja rakentamisen digitalisaatio	0	250000	250000	250000	250000	250000	0	
-2016	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.55. Avustukset korjaustoimintaan	20000000	0	20000000	20000000	20000000	20000000	0	
-2016	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	850000	0	850000	850000	850000	850000	0	
+2016	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	4956000	-25000	4931000	4931000	4931000	4931000	0	
+2016	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.02. Rakennetun ympäristön ja rakentamisen digitalisaatio	0	250000	250000	250000	250000	250000	0	
+2016	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.55. Avustukset korjaustoimintaan	20000000	0	20000000	20000000	20000000	20000000	0	
+2016	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	850000	0	850000	850000	850000	850000	0	
 2016	36. Valtionvelan korot	36.01. Valtionvelan korko	36.01.90. Valtionvelan korko	1536000000	-25000000	1511000000	1511000000	1513349158	02	1513349158	02	-2349158	2	
 2016	36. Valtionvelan korot	36.09. Muut menot valtionvelasta	36.09.20. Palkkiot ja muut menot valtionvelasta	37100000	0	37100000	37100000	7169720	43	7169720	43	29930279	57	
 2017	21. Eduskunta	21.01. Kansanedustajat	21.01.01. Kansanedustajien toimintamenot	21639000	0	21639000	21639000	21152932	92	21152932	92	486067	8	
@@ -1392,9 +1392,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	22. Tasavallan presidentti	22.02. Tasavallan presidentin kanslia	22.02.02. Eläkkeellä olevien presidenttien menot	600000	0	600000	600000	174689	24	174689	24	425310	76	
 2017	22. Tasavallan presidentti	22.02. Tasavallan presidentin kanslia	22.02.29. Arvonlisäveromenot	2500000	0	2500000	2500000	1128203	32	1128203	32	1371796	68	
 2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.01. Valtioneuvoston kanslian toimintamenot	123240000	888000	124128000	124128000	124128000	124128000	0	
-2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.02. Ministereiden	 heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset	5575000	645000	6220000	6220000	5692692	06	5692692	06	527307	94	
+2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.02. Ministereiden heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset	5575000	645000	6220000	6220000	5692692	06	5692692	06	527307	94	
 2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.03. Euroopan unionin kansallisten asiantuntijoiden palkkamenot	1000000	0	1000000	1000000	1000000	1000000	0	
-2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.04. Pääministerin	 kansliassa toimivien ministereiden ja heidän avustajiensa matkat	867000	0	867000	867000	867000	867000	0	
+2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.04. Pääministerin kansliassa toimivien ministereiden ja heidän avustajiensa matkat	867000	0	867000	867000	867000	867000	0	
 2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.22. Valtioneuvoston selvitys- ja tutkimustoiminta	11400000	-100000	11300000	11300000	11300000	11300000	0	
 2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.23. Kokeilutoiminnan digitaalinen edistäminen	0	100000	100000	100000	100000	100000	0	
 2017	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.24. Suomen EU-puheenjohtajuus	0	200000	200000	200000	200000	200000	0	
@@ -1419,7 +1419,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.51. Hädänalaisten avustaminen	45000	0	45000	45000	30690	21	30690	21	14309	79	
 2017	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.66. Eräät jäsenmaksut ja rahoitusosuudet	86992000	0	86992000	86992000	86992000	86992000	0	
 2017	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.67. Kansainvälisen ilmastosopimuksen alaisen yhteistyön menot	100000	0	100000	100000	100000	100000	0	
-2017	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren	 Barentsin ja arktisen alueen yhteistyö	1800000	0	1800000	1800000	1800000	1800000	0	
+2017	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren Barentsin ja arktisen alueen yhteistyö	1800000	0	1800000	1800000	1800000	1800000	0	
 2017	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.95. Kurssivaihtelut	1000000	0	1000000	1000000	6650	39	6650	39	993349	61	
 2017	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.01. Oikeusministeriön toimintamenot	20446000	-89000	20357000	20357000	20357000	20357000	0	
 2017	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.03. Oikeusministeriön yhteydessä toimivien viranomaisten toimintamenot	7188000	100000	7288000	7288000	7288000	7288000	0	
@@ -1435,7 +1435,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.03. Muiden tuomioistuinten toimintamenot	256497000	0	256497000	256497000	256497000	256497000	0	
 2017	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.04. Oikeusapu- ja edunvalvontapiirien ja kuluttajariitalautakunnan toimintamenot	61152000	0	61152000	61152000	61152000	61152000	0	
 2017	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.50. Yksityisille oikeusavustajille maksettavat korvaukset	77200000	1700000	78900000	78900000	79098060	36	79098060	36	-198060	36	
-2017	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt	 ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	103271000	0	103271000	103271000	103271000	103271000	0	
+2017	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	103271000	0	103271000	103271000	103271000	103271000	0	
 2017	25. Oikeusministeriön hallinnonala	25.30. Syyttäjät	25.30.01. Syyttäjälaitoksen toimintamenot	44748000	0	44748000	44748000	44748000	44748000	0	
 2017	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.01. Rikosseuraamuslaitoksen toimintamenot	210984000	-120000	210864000	210864000	210864000	210864000	0	
 2017	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.74. Avolaitostyöt	4700000	0	4700000	4700000	4700000	4700000	0	
@@ -1484,9 +1484,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.07. Valtion talous- ja henkilöstöhallinnon palvelukeskuksen toimintamenot	2000000	0	2000000	2000000	1034340	41	1034340	41	965659	59	
 2017	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.09. Valtion tieto- ja viestintätekniikkakeskuksen toimintamenot	3000000	0	3000000	3000000	3000000	3000000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.10. Valtion tieto- ja viestintätekniikkakeskuksen investointimenot	10000000	0	10000000	10000000	10000000	10000000	0	
-2017	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	47138000	0	47138000	47138000	47138000	47138000	0	
-2017	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	3382000	0	3382000	3382000	3382000	3382000	0	
-2017	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	9620000	440000	10060000	10060000	10060000	10060000	0	
+2017	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	47138000	0	47138000	47138000	47138000	47138000	0	
+2017	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	3382000	0	3382000	3382000	3382000	3382000	0	
+2017	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	9620000	440000	10060000	10060000	10060000	10060000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.01. Aluehallintoviraston toimintamenot	53300000	260000	53560000	53560000	53560000	53560000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.02. Maistraattien toimintamenot	28429000	0	28429000	28429000	28429000	28429000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.03. Alue- ja paikallishallinnon tukitoimet	352000	0	352000	352000	352000	352000	0	
@@ -1501,7 +1501,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.12. Osaamisen kehittäminen	15000000	0	15000000	15000000	15000000	15000000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.60. Siirto Koulutusrahastolle	230000	0	230000	230000	231180	231180	-1180	
 2017	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.01. Valtion ICT:n ohjaus ja kehittäminen	6000000	0	6000000	6000000	6000000	6000000	0	
-2017	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous-	 henkilöstö- ja toimitilahallinnon tietojärjestelmät	5300000	1500000	6800000	6800000	6800000	6800000	0	
+2017	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous- henkilöstö- ja toimitilahallinnon tietojärjestelmät	5300000	1500000	6800000	6800000	6800000	6800000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.03. Kansallisen tietoalan ohjaus ja kehittäminen	27500000	0	27500000	27500000	27500000	27500000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.05. Maakunta- ja sosiaali- ja terveydenhuollon uudistuksen valmistelun ja toimeenpanon tuki ja ohjaus	31300000	22000000	53300000	53300000	53300000	53300000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.20. Tuottavuuden edistäminen	49730000	0	49730000	49730000	49730000	49730000	0	
@@ -1526,20 +1526,20 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.96. Ennakoimattomat menot	5000000	0	5000000	5000000	5000000	5000000	0	
 2017	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.97. Valtion saatavien turvaaminen	150000	150000	300000	300000	304899	1	304899	1	-4899	1	
 2017	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.98. Kassasijoitusten riskienhallinta	30000000	-15800000	14200000	14200000	10220194	18	10220194	18	3979805	82	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	18021000	1653000	19674000	19674000	19674000	19674000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	46077000	-75000	46002000	46002000	46002000	46002000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.04. Kansallisen koulutuksen arviointikeskuksen toimintamenot	3687000	0	3687000	3687000	3687000	3687000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3058000	0	3058000	3058000	3058000	3058000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.22. Eräät käyttöoikeuskorvaukset	14203000	0	14203000	14203000	14203000	14203000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	28540000	0	28540000	28540000	29687635	53	29687635	53	-1147635	53	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	1537000	0	1537000	1537000	1537000	1537000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3313000	0	3313000	3313000	3313000	3313000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.52. Valtion rahoitus evankelis-luterilaisen kirkon yhteiskunnallisiin tehtäviin	114000000	0	114000000	114000000	114000000	114000000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.53. Eräät turvapaikanhakijoista ja maahanmuuttajista aiheutuvat avustukset	8090000	0	8090000	8090000	8090000	8090000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2226000	0	2226000	2226000	2099928	52	2099928	52	126071	48	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	18021000	1653000	19674000	19674000	19674000	19674000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	46077000	-75000	46002000	46002000	46002000	46002000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.04. Kansallisen koulutuksen arviointikeskuksen toimintamenot	3687000	0	3687000	3687000	3687000	3687000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3058000	0	3058000	3058000	3058000	3058000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.22. Eräät käyttöoikeuskorvaukset	14203000	0	14203000	14203000	14203000	14203000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	28540000	0	28540000	28540000	29687635	53	29687635	53	-1147635	53	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	1537000	0	1537000	1537000	1537000	1537000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3313000	0	3313000	3313000	3313000	3313000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.52. Valtion rahoitus evankelis-luterilaisen kirkon yhteiskunnallisiin tehtäviin	114000000	0	114000000	114000000	114000000	114000000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.53. Eräät turvapaikanhakijoista ja maahanmuuttajista aiheutuvat avustukset	8090000	0	8090000	8090000	8090000	8090000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2226000	0	2226000	2226000	2099928	52	2099928	52	126071	48	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.01. Valtion yleissivistävän koulutuksen toimintamenot	42183000	0	42183000	42183000	42183000	42183000	0	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.02. Ylioppilastutkintolautakunnan toimintamenot	3285000	0	3285000	3285000	3285000	3285000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.20. Yleissivistävän koulutuksen	 varhaiskasvatuksen ja vapaan sivistystyön yhteiset menot	34016000	0	34016000	34016000	34016000	34016000	0	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.20. Yleissivistävän koulutuksen varhaiskasvatuksen ja vapaan sivistystyön yhteiset menot	34016000	0	34016000	34016000	34016000	34016000	0	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.30. Valtionosuus ja -avustus yleissivistävän koulutuksen käyttökustannuksiin	711542000	0	711542000	711542000	674602396	32	674602396	32	36939603	68	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.31. Valtionosuus ja -avustus vapaan sivistystyön oppilaitosten käyttökustannuksiin	146270000	0	146270000	146270000	145499667	145499667	770333	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.51. Valtionavustus yleissivistävän koulutuksen järjestöille	1206000	0	1206000	1206000	1206000	1206000	0	
@@ -1574,12 +1574,12 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.16. Ylimääräiset taiteilija- ja sanomalehtimieseläkkeet	18848000	0	18848000	18848000	17971048	7	17971048	7	876951	3	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.20. Museoviraston kulttuuri- ja nähtävyyskohteiden tilakustannukset	15400000	0	15400000	15400000	15400000	15400000	0	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.30. Valtionavustukset yleisten kirjastojen toimintaan	3700000	0	3700000	3700000	3700000	3700000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.31. Valtionosuus ja -avustus teattereiden	 orkestereiden ja museoiden käyttökustannuksiin	48781000	0	48781000	48781000	48387827	48387827	393173	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.31. Valtionosuus ja -avustus teattereiden orkestereiden ja museoiden käyttökustannuksiin	48781000	0	48781000	48781000	48387827	48387827	393173	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.35. Valtionavustus Suomen itsenäisyyden 100-vuotisjuhlavuoden merkkihankkeen perustamiskustannuksiin	8000000	0	8000000	8000000	8000000	8000000	0	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.40. Korvaus Suomenlinnan huoltoliikenteen käyttötappioon	252000	0	252000	252000	0	0	252000	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.41. Eräät käyttöoikeuskorvaukset	26648000	0	26648000	26648000	26648000	26648000	0	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.50. Eräät avustukset	8293000	0	8293000	8293000	8293000	8293000	0	
-2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille	 kirjailijoille ja kääntäjille	14615000	0	14615000	14615000	14058620	34	14058620	34	556379	66	
+2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille kirjailijoille ja kääntäjille	14615000	0	14615000	14615000	14058620	34	14058620	34	556379	66	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.52. Rahapelitoiminnan voittovarat taiteen edistämiseen	233589000	0	233589000	233589000	233369045	53	233369045	53	219954	47	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.53. Valtionavustus tilakustannuksiin	27257000	0	27257000	27257000	26847335	26847335	409665	
 2017	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.55. Digitaalisen kulttuuriperinnön saatavuus ja säilyttäminen	1950000	0	1950000	1950000	1950000	1950000	0	
@@ -1615,7 +1615,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.20. Eläinlääkintähuolto ja kasvintuhoojien torjunta	6028000	0	6028000	6028000	5500341	26	5500341	26	527658	74	
 2017	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.40. Maa- ja puutarhatalouden kansallinen tuki	327900000	0	327900000	327900000	327900000	327900000	0	
 2017	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.41. EU-tulotuki ja EU-markkinatuki	540000000	1100000	541100000	541100000	533706680	01	533706680	01	7393319	99	
-2017	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.43. Ympäristökorvaukset	 luonnonmukainen tuotanto	 neuvonta ja ei-tuotannolliset investoinnit	300043000	0	300043000	300043000	300043000	300043000	0	
+2017	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.43. Ympäristökorvaukset luonnonmukainen tuotanto neuvonta ja ei-tuotannolliset investoinnit	300043000	0	300043000	300043000	300043000	300043000	0	
 2017	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.44. Luonnonhaittakorvaukset	551888000	21000000	572888000	572888000	572888000	572888000	0	
 2017	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.46. EU:n osarahoittama ruokaketjun kehittäminen	4605000	500000	5105000	5105000	5105000	5105000	0	
 2017	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.47. Kansallinen ruokaketjun kehittäminen	4419000	2420000	6839000	6839000	6839000	6839000	0	
@@ -1664,9 +1664,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.45. Yleisen edun kanavien uutis- ja ajankohtaistoiminnan tuki	0	1000000	1000000	1000000	1000000	1000000	0	
 2017	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.50. Valtionavustus valtakunnallisen laajakaistahankkeen toteuttamiseen	0	7643000	7643000	7643000	7643000	7643000	0	
 2017	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.60. Siirto valtion televisio- ja radiorahastoon	507948000	0	507948000	507948000	507948000	507948000	0	
-2017	31. Liikenne- ja viestintäministeriön hallinnonala	31.50. Sää-	 meri- ja ilmastopalvelut	31.50.01. Ilmatieteen laitoksen toimintamenot	45184000	0	45184000	45184000	45184000	45184000	0	
+2017	31. Liikenne- ja viestintäministeriön hallinnonala	31.50. Sää- meri- ja ilmastopalvelut	31.50.01. Ilmatieteen laitoksen toimintamenot	45184000	0	45184000	45184000	45184000	45184000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.01. Työ- ja elinkeinoministeriön toimintamenot	33558000	895000	34453000	34453000	34453000	34453000	0	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino-	 liikenne- ja ympäristökeskusten toimintamenot	172660000	-630000	172030000	172030000	172030000	172030000	0	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino- liikenne- ja ympäristökeskusten toimintamenot	172660000	-630000	172030000	172030000	172030000	172030000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.20. Siviilipalvelus	4939000	0	4939000	4939000	3673450	3673450	1265550	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.21. Työ- ja elinkeinoministeriön hallinnonalan tuottavuusmääräraha	2326000	2000000	4326000	4326000	4326000	4326000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.29. Työ- ja elinkeinoministeriön hallinnonalan arvonlisäveromenot	35854000	0	35854000	35854000	33350426	98	33350426	98	2503573	2	
@@ -1677,7 +1677,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.01. Geologian tutkimuskeskuksen toimintamenot	31557000	0	31557000	31557000	31557000	31557000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.06. Innovaatiorahoituskeskus Tekesin toimintamenot	43523000	-1370000	42153000	42153000	42153000	42153000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.28. Materiaalitehokkuuden edistäminen	400000	0	400000	400000	400000	400000	0	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus-	 kehittämis- ja innovaatiotoiminnan tukeminen	274500000	50000000	324500000	324500000	335441666	36	335441666	36	-10941666	36	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus- kehittämis- ja innovaatiotoiminnan tukeminen	274500000	50000000	324500000	324500000	335441666	36	335441666	36	-10941666	36	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.41. Erityisavustus Teknologian tutkimuskeskus VTT Oy:n tutkimusinfrastruktuuriin	2500000	0	2500000	2500000	2500000	2500000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.42. Kasvuekosysteemien ja innovatiivisten julkisten hankintojen kehittäminen	4100000	4000000	8100000	8100000	8100000	8100000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.43. Cleantech- ja biotalousratkaisujen sekä innovaatioiden kaupallistamisen tukeminen	43000000	0	43000000	43000000	43000000	43000000	0	
@@ -1694,20 +1694,20 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.89. Pääomasijoitus Tekes Pääomasijoitus Oy:lle	20000000	-4300000	15700000	15700000	15700000	15700000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.01. Työ- ja elinkeinotoimistojen toimintamenot	173131000	0	173131000	173131000	173131000	173131000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.51. Julkiset työvoima- ja yrityspalvelut	423753000	10000000	433753000	433753000	433753000	433753000	0	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	10619000	0	10619000	10619000	10619000	10619000	0	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	6055000	1350000	7405000	7405000	2445895	5	2445895	5	4959104	5	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	19482000	0	19482000	19482000	19482000	19482000	0	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	4731000	0	4731000	4731000	4731000	4731000	0	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	892000	0	892000	892000	892000	892000	0	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2572000	0	2572000	2572000	2053565	72	2053565	72	518434	28	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.52. Palkkaturva	32000000	0	32000000	32000000	25979037	14	25979037	14	6020962	86	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	50000	0	50000	50000	0	0	50000	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	10619000	0	10619000	10619000	10619000	10619000	0	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	6055000	1350000	7405000	7405000	2445895	5	2445895	5	4959104	5	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	19482000	0	19482000	19482000	19482000	19482000	0	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	4731000	0	4731000	4731000	4731000	4731000	0	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	892000	0	892000	892000	892000	892000	0	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2572000	0	2572000	2572000	2053565	72	2053565	72	518434	28	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.52. Palkkaturva	32000000	0	32000000	32000000	25979037	14	25979037	14	6020962	86	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	50000	0	50000	50000	0	0	50000	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.40. Alueellisten innovaatioiden ja kokeilujen käynnistäminen	11000000	5987000	16987000	16987000	16987000	16987000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.41. Valtionavustus Finpron toimintaan	34130000	2800000	36930000	36930000	36930000	36930000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.42. Yritysten kehittämishankkeiden tukeminen	20078000	1800000	21878000	21878000	21876457	21876457	1543	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.43. Kansainvälistymisavustus yritysten yhteishankkeisiin	5315000	-2000000	3315000	3315000	1247209	1247209	2067791	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.44. Alueellinen kuljetustuki	5000000	0	5000000	5000000	5000000	5000000	0	
-2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto-	 ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	357458000	-20000000	337458000	337458000	280568706	61	280568706	61	56889293	39	
+2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto- ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	357458000	-20000000	337458000	337458000	280568706	61	280568706	61	56889293	39	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.65. Työllisyysperusteiset siirtomenot investointeihin	5000000	-2500000	2500000	2500000	2092276	2092276	407724	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.01. Energiaviraston toimintamenot	6407000	0	6407000	6407000	6407000	6407000	0	
 2017	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.20. Energiatehokkuuden ja uusiutuvan energian käytön edistäminen	2500000	0	2500000	2500000	2500000	2500000	0	
@@ -1739,15 +1739,15 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.31. Hyvinvoinnin ja terveyden edistäminen	49690000	0	49690000	49690000	49690000	49690000	0	
 2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.50. Valtionapu Työterveyslaitoksen menoihin	23222000	0	23222000	23222000	23222000	23222000	0	
 2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.63. Eräät erityishankkeet	7572000	0	7572000	7572000	7572000	7572000	0	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	10500000	0	10500000	10500000	8763500	8763500	1736500	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.51. Lapsilisät	1360500000	0	1360500000	1360500000	1360500000	1360500000	0	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	4600000	-1300000	3300000	3300000	2242365	14	2242365	14	1057634	86	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.53. Sotilasavustus	16500000	0	16500000	16500000	16500000	16500000	0	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.54. Asumistuki	1256400000	0	1256400000	1256400000	1266400000	1266400000	-10000000	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.55. Elatustuki	213500000	0	213500000	213500000	204873789	52	204873789	52	8626210	48	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	46900000	0	46900000	46900000	45475473	07	45475473	07	1424526	93	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.57. Perustoimeentulotuki	831638000	0	831638000	831638000	760630313	22	760630313	22	71007686	78	
-2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.60. Kansaneläkelaitoksen sosiaaliturvarahastojen toimintakulut	348747000	-17000000	331747000	331747000	331747000	331747000	0	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	10500000	0	10500000	10500000	8763500	8763500	1736500	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.51. Lapsilisät	1360500000	0	1360500000	1360500000	1360500000	1360500000	0	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	4600000	-1300000	3300000	3300000	2242365	14	2242365	14	1057634	86	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.53. Sotilasavustus	16500000	0	16500000	16500000	16500000	16500000	0	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.54. Asumistuki	1256400000	0	1256400000	1256400000	1266400000	1266400000	-10000000	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.55. Elatustuki	213500000	0	213500000	213500000	204873789	52	204873789	52	8626210	48	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	46900000	0	46900000	46900000	45475473	07	45475473	07	1424526	93	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.57. Perustoimeentulotuki	831638000	0	831638000	831638000	760630313	22	760630313	22	71007686	78	
+2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.60. Kansaneläkelaitoksen sosiaaliturvarahastojen toimintakulut	348747000	-17000000	331747000	331747000	331747000	331747000	0	
 2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.31. Valtion korvaus kunnille kuntouttavan työtoiminnan järjestämisestä	26840000	0	26840000	26840000	20095648	74	20095648	74	6744351	26	
 2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.50. Valtionosuus ansiopäivärahasta	1086000000	-35000000	1051000000	1051000000	983911277	23	983911277	23	67088722	77	
 2017	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.51. Valtionosuus peruspäivärahasta	121000000	0	121000000	121000000	95356991	9	95356991	9	25643008	1	
@@ -1807,10 +1807,10 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2017	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.65. Öljyjätemaksulla rahoitettava öljyjätehuolto	1000000	0	1000000	1000000	1000000	1000000	0	
 2017	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.66. Kansainvälisen yhteistyön jäsenmaksut ja rahoitusosuudet	1732000	0	1732000	1732000	1732000	1732000	0	
 2017	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.70. Alusinvestoinnit	5000000	0	5000000	5000000	5000000	5000000	0	
-2017	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	5181000	0	5181000	5181000	5181000	5181000	0	
-2017	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.02. Rakennetun ympäristön ja rakentamisen digitalisaatio	4000000	3750000	7750000	7750000	7750000	7750000	0	
-2017	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.55. Avustukset korjaustoimintaan	20000000	0	20000000	20000000	20000000	20000000	0	
-2017	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	850000	0	850000	850000	850000	850000	0	
+2017	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	5181000	0	5181000	5181000	5181000	5181000	0	
+2017	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.02. Rakennetun ympäristön ja rakentamisen digitalisaatio	4000000	3750000	7750000	7750000	7750000	7750000	0	
+2017	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.55. Avustukset korjaustoimintaan	20000000	0	20000000	20000000	20000000	20000000	0	
+2017	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	850000	0	850000	850000	850000	850000	0	
 2017	36. Valtionvelan korot	36.01. Valtionvelan korko	36.01.90. Valtionvelan korko	1296000000	50000000	1346000000	1346000000	1324939712	32	1324939712	32	21060287	68	
 2017	36. Valtionvelan korot	36.09. Muut menot valtionvelasta	36.09.20. Palkkiot ja muut menot valtionvelasta	11510000	0	11510000	11510000	6323035	67	6323035	67	5186964	33	
 2018	21. Eduskunta	21.01. Kansanedustajat	21.01.01. Kansanedustajien toimintamenot	21247000	0	21247000	21247000	19310082	81	19310082	81	1936917	19	
@@ -1834,9 +1834,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	22. Tasavallan presidentti	22.02. Tasavallan presidentin kanslia	22.02.29. Arvonlisäveromenot	2500000	0	2500000	2500000	1856721	92	1856721	92	643278	8	
 2018	22. Tasavallan presidentti	22.02. Tasavallan presidentin kanslia	22.02.75. Perusparannukset	5000000	0	5000000	5000000	4881171	49	4881171	49	118828	51	
 2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.01. Valtioneuvoston kanslian toimintamenot	123297000	4157000	127454000	127454000	93135865	15	93135865	15	34318134	85	
-2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.02. Ministereiden	 heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset	6510000	0	6510000	6510000	5503100	08	5503100	08	1006899	92	
+2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.02. Ministereiden heidän valtiosihteeriensä ja erityisavustajiensa palkkaukset	6510000	0	6510000	6510000	5503100	08	5503100	08	1006899	92	
 2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.03. Euroopan unionin kansallisten asiantuntijoiden palkkamenot	1000000	0	1000000	1000000	84326	19	84326	19	915673	81	
-2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.04. Pääministerin	 kansliassa toimivien ministereiden ja heidän avustajiensa matkat	867000	0	867000	867000	168447	49	168447	49	698552	51	
+2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.04. Pääministerin kansliassa toimivien ministereiden ja heidän avustajiensa matkat	867000	0	867000	867000	168447	49	168447	49	698552	51	
 2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.22. Valtioneuvoston selvitys- ja tutkimustoiminta	11400000	0	11400000	11400000	2323385	17	2323385	17	9076614	83	
 2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.24. Suomen EU-puheenjohtajuus	6800000	0	6800000	6800000	2198750	29	2198750	29	4601249	71	
 2018	23. Valtioneuvoston kanslia	23.01. Hallinto	23.01.25. Terveet tilat 2028	0	500000	500000	500000	8180	64	8180	64	491819	36	
@@ -1861,7 +1861,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.51. Hädänalaisten avustaminen	45000	0	45000	45000	24004	17	24004	17	20995	83	
 2018	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.66. Eräät jäsenmaksut ja rahoitusosuudet	90046000	0	90046000	90046000	43847696	56	43847696	56	46198303	44	
 2018	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.67. Kansainvälisen ilmastosopimuksen alaisen yhteistyön menot	100000	0	100000	100000	0	0	100000	
-2018	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren	 Barentsin ja arktisen alueen yhteistyö	1800000	0	1800000	1800000	328497	91	328497	91	1471502	9	
+2018	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.68. Itämeren Barentsin ja arktisen alueen yhteistyö	1800000	0	1800000	1800000	328497	91	328497	91	1471502	9	
 2018	24. Ulkoministeriön hallinnonala	24.90. Ulkoasiainministeriön hallinnonalan muut menot	24.90.95. Kurssivaihtelut	1000000	0	1000000	1000000	-70772	45	-70772	45	1070772	45	
 2018	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.01. Oikeusministeriön toimintamenot	19988000	250000	20238000	20238000	13551810	99	13551810	99	6686189	1	
 2018	25. Oikeusministeriön hallinnonala	25.01. Ministeriö ja hallinto	25.01.03. Oikeusministeriön yhteydessä toimivien viranomaisten toimintamenot	7961000	66000	8027000	8027000	5965561	8	5965561	8	2061438	2	
@@ -1877,7 +1877,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.03. Muiden tuomioistuinten toimintamenot	250075000	1940000	252015000	252015000	156803685	59	156803685	59	95211314	41	
 2018	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.04. Oikeusapu- ja edunvalvontapiirien ja kuluttajariitalautakunnan toimintamenot	65052000	557000	65609000	65609000	31431835	64	31431835	64	34177164	36	
 2018	25. Oikeusministeriön hallinnonala	25.10. Tuomioistuimet ja oikeusapu	25.10.50. Yksityisille oikeusavustajille maksettavat korvaukset	76200000	0	76200000	76200000	69822122	7	69822122	7	6377877	3	
-2018	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt	 ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	100493000	829000	101322000	101322000	83079490	39	83079490	39	18242509	61	
+2018	25. Oikeusministeriön hallinnonala	25.20. Maksuhäiriöt ulosotto ja konkurssivalvonta	25.20.01. Ulosottolaitoksen ja konkurssivalvonnan toimintamenot	100493000	829000	101322000	101322000	83079490	39	83079490	39	18242509	61	
 2018	25. Oikeusministeriön hallinnonala	25.30. Syyttäjät	25.30.01. Syyttäjälaitoksen toimintamenot	44192000	850000	45042000	45042000	40829865	31	40829865	31	4212134	69	
 2018	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.01. Rikosseuraamuslaitoksen toimintamenot	209798000	1314000	211112000	211112000	185384232	85	185384232	85	25727767	15	
 2018	25. Oikeusministeriön hallinnonala	25.40. Rangaistusten täytäntöönpano	25.40.74. Avolaitostyöt	4700000	0	4700000	4700000	3999255	58	3999255	58	700744	42	
@@ -1927,9 +1927,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.07. Valtion talous- ja henkilöstöhallinnon palvelukeskuksen toimintamenot	2000000	533000	2533000	2533000	-1264016	39	-1264016	39	3797016	39	
 2018	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.09. Valtion tieto- ja viestintätekniikkakeskuksen toimintamenot	3000000	436000	3436000	3436000	34218581	81	34218581	81	-30782581	81	
 2018	28. Valtiovarainministeriön hallinnonala	28.20. Palvelut valtioyhteisölle	28.20.10. Valtion tieto- ja viestintätekniikkakeskuksen investointimenot	10000000	0	10000000	10000000	8897408	61	8897408	61	1102591	39	
-2018	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	47299000	873000	48172000	48172000	37020207	63	37020207	63	11151792	37	
-2018	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	3412000	31000	3443000	3443000	1093618	9	1093618	9	2349381	1	
-2018	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi	 taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	33469000	252000	33721000	33721000	15594737	06	15594737	06	18126262	94	
+2018	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.01. Tilastokeskuksen toimintamenot	47299000	873000	48172000	48172000	37020207	63	37020207	63	11151792	37	
+2018	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.02. Valtion taloudellisen tutkimuskeskuksen toimintamenot	3412000	31000	3443000	3443000	1093618	9	1093618	9	2349381	1	
+2018	28. Valtiovarainministeriön hallinnonala	28.30. Tilastotoimi taloudellinen tutkimus ja rekisterihallinto	28.30.03. Väestörekisterikeskuksen toimintamenot	33469000	252000	33721000	33721000	15594737	06	15594737	06	18126262	94	
 2018	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.01. Aluehallintoviraston toimintamenot	50402000	444000	50846000	50846000	32820528	46	32820528	46	18025471	54	
 2018	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.02. Maistraattien toimintamenot	27899000	338000	28237000	28237000	20470346	82	20470346	82	7766653	18	
 2018	28. Valtiovarainministeriön hallinnonala	28.40. Valtion alue- ja paikallishallinto	28.40.03. Alue- ja paikallishallinnon tukitoimet	2482000	0	2482000	2482000	236464	55	236464	55	2245535	45	
@@ -1943,7 +1943,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.10. Työturvallisuuden edistäminen	850000	0	850000	850000	0	0	850000	
 2018	28. Valtiovarainministeriön hallinnonala	28.60. Valtionhallinnon yhteiset henkilöstömenot	28.60.12. Osaamisen kehittäminen	15000000	0	15000000	15000000	1483100	27	1483100	27	13516899	73	
 2018	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.01. Valtion ICT:n ohjaus ja kehittäminen	4125000	1176000	5301000	5301000	317079	99	317079	99	4983920	1	
-2018	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous-	 henkilöstö- ja toimitilahallinnon tietojärjestelmät	5000000	0	5000000	5000000	85247	38	85247	38	4914752	62	
+2018	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.02. Valtion talous- henkilöstö- ja toimitilahallinnon tietojärjestelmät	5000000	0	5000000	5000000	85247	38	85247	38	4914752	62	
 2018	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.05. Maakunta- ja sosiaali- ja terveydenhuollon uudistuksen valmistelun ja toimeenpanon tuki ja ohjaus	180070000	18900000	198970000	198970000	143503099	12	143503099	12	55466900	88	
 2018	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.20. Tuottavuuden edistäminen	23268000	-8377000	14891000	14891000	0	0	14891000	
 2018	28. Valtiovarainministeriön hallinnonala	28.70. Valtionhallinnon kehittäminen	28.70.21. Kansallisen tulorekisterin toteutus	15663000	0	15663000	15663000	1027047	52	1027047	52	14635952	48	
@@ -1968,18 +1968,18 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.96. Ennakoimattomat menot	5000000	0	5000000	5000000	0	0	5000000	
 2018	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.97. Valtion saatavien turvaaminen	150000	0	150000	150000	192122	13	192122	13	-42122	13	
 2018	28. Valtiovarainministeriön hallinnonala	28.99. Erikseen budjetoidut valtionhallinnon menot	28.99.98. Kassasijoitusten riskienhallinta	12400000	0	12400000	12400000	10857623	8	10857623	8	1542376	2	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	17672000	142000	17814000	17814000	15029501	64	15029501	64	2784498	36	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	58458000	10266000	68724000	68724000	45578073	51	45578073	51	23145926	49	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.03. Kansainvälisen liikkuvuuden ja yhteistyön keskuksen CIMOn toimintamenot	7453000	36000	7489000	7489000	691885	67	691885	67	6797114	33	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3058000	300000	3358000	3358000	2484718	02	2484718	02	873281	98	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	28601000	0	28601000	28601000	27762663	11	27762663	11	838336	89	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	1537000	0	1537000	1537000	1406000	1406000	131000	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3313000	0	3313000	3313000	3309900	3309900	3100	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.52. Valtion rahoitus evankelis-luterilaisen kirkon yhteiskunnallisiin tehtäviin	114000000	0	114000000	114000000	114000000	114000000	0	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.53. Eräät turvapaikanhakijoista ja maahanmuuttajista aiheutuvat avustukset	8090000	-300000	7790000	7790000	3748478	64	3748478	64	4041521	36	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto	 kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2226000	0	2226000	2226000	1989314	87	1989314	87	236685	13	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.01. Opetus- ja kulttuuriministeriön toimintamenot	17672000	142000	17814000	17814000	15029501	64	15029501	64	2784498	36	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.02. Opetushallituksen toimintamenot	58458000	10266000	68724000	68724000	45578073	51	45578073	51	23145926	49	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.03. Kansainvälisen liikkuvuuden ja yhteistyön keskuksen CIMOn toimintamenot	7453000	36000	7489000	7489000	691885	67	691885	67	6797114	33	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.21. Kansainvälinen yhteistyö	3058000	300000	3358000	3358000	2484718	02	2484718	02	873281	98	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.29. Opetus- ja kulttuuriministeriön hallinnonalan arvonlisäveromenot	28601000	0	28601000	28601000	27762663	11	27762663	11	838336	89	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.50. Eräät avustukset	1537000	0	1537000	1537000	1406000	1406000	131000	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.51. Avustukset kirkolliseen ja uskonnolliseen toimintaan	3313000	0	3313000	3313000	3309900	3309900	3100	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.52. Valtion rahoitus evankelis-luterilaisen kirkon yhteiskunnallisiin tehtäviin	114000000	0	114000000	114000000	114000000	114000000	0	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.53. Eräät turvapaikanhakijoista ja maahanmuuttajista aiheutuvat avustukset	8090000	-300000	7790000	7790000	3748478	64	3748478	64	4041521	36	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.01. Hallinto kirkollisasiat ja toimialan yhteiset menot	29.01.66. Rahoitusosuudet kansainvälisille järjestöille	2226000	0	2226000	2226000	1989314	87	1989314	87	236685	13	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.01. Valtion yleissivistävän koulutuksen toimintamenot	41254000	307000	41561000	41561000	19463687	18	19463687	18	22097312	82	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.20. Yleissivistävän koulutuksen	 varhaiskasvatuksen ja vapaan sivistystyön yhteiset menot	39557000	2000000	41557000	41557000	12873282	94	12873282	94	28683717	6	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.20. Yleissivistävän koulutuksen varhaiskasvatuksen ja vapaan sivistystyön yhteiset menot	39557000	2000000	41557000	41557000	12873282	94	12873282	94	28683717	6	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.30. Valtionosuus ja -avustus yleissivistävän koulutuksen käyttökustannuksiin	704808000	0	704808000	704808000	613848689	22	613848689	22	90959310	78	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.31. Valtionosuus ja -avustus vapaan sivistystyön oppilaitosten käyttökustannuksiin	152433000	9000000	161433000	161433000	140974959	140974959	20458041	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.10. Yleissivistävä koulutus ja varhaiskasvatus	29.10.51. Valtionavustus yleissivistävän koulutuksen järjestöille	7843000	0	7843000	7843000	7843000	7843000	0	
@@ -2014,12 +2014,12 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.16. Ylimääräiset taiteilija- ja sanomalehtimieseläkkeet	18960000	0	18960000	18960000	15039899	16	15039899	16	3920100	84	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.20. Museoviraston kulttuuri- ja nähtävyyskohteiden tilakustannukset	15686000	0	15686000	15686000	14515633	8	14515633	8	1170366	2	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.30. Valtionavustukset yleisten kirjastojen toimintaan	3700000	0	3700000	3700000	3700000	3700000	0	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.31. Valtionosuus ja -avustus teattereiden	 orkestereiden ja museoiden käyttökustannuksiin	48565000	717000	49282000	49282000	39386177	39386177	9895823	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.31. Valtionosuus ja -avustus teattereiden orkestereiden ja museoiden käyttökustannuksiin	48565000	717000	49282000	49282000	39386177	39386177	9895823	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.35. Valtionavustus Suomen itsenäisyyden 100-vuotisjuhlavuoden merkkihankkeen perustamiskustannuksiin	8000000	0	8000000	8000000	8000000	8000000	0	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.40. Korvaus Suomenlinnan huoltoliikenteen käyttötappioon	252000	0	252000	252000	219648	219648	32352	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.41. Eräät käyttöoikeuskorvaukset	26648000	0	26648000	26648000	26419461	72	26419461	72	228538	28	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.50. Eräät avustukset	7880000	0	7880000	7880000	7434145	74	7434145	74	445854	26	
-2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille	 kirjailijoille ja kääntäjille	14615000	0	14615000	14615000	14336589	68	14336589	68	278410	32	
+2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.51. Apurahat taiteilijoille kirjailijoille ja kääntäjille	14615000	0	14615000	14615000	14336589	68	14336589	68	278410	32	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.52. Rahapelitoiminnan voittovarat taiteen edistämiseen	238294000	600000	238894000	238894000	234580414	09	234580414	09	4313585	91	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.53. Valtionavustus tilakustannuksiin	27381000	-717000	26664000	26664000	26175560	26175560	488440	
 2018	29. Opetus- ja kulttuuriministeriön hallinnonala	29.80. Taide ja kulttuuri	29.80.55. Digitaalisen kulttuuriperinnön saatavuus ja säilyttäminen	1950000	0	1950000	1950000	0	0	1950000	
@@ -2054,7 +2054,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.20. Eläinlääkintähuolto ja kasvintuhoojien torjunta	5948000	0	5948000	5948000	4637600	75	4637600	75	1310399	25	
 2018	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.40. Maa- ja puutarhatalouden kansallinen tuki	325400000	-2060000	323340000	323340000	247696277	19	247696277	19	75643722	81	
 2018	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.41. EU-tulotuki ja EU-markkinatuki	531130000	0	531130000	531130000	60731350	95	60731350	95	470398649	5	
-2018	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.43. Ympäristökorvaukset	 luonnonmukainen tuotanto	 neuvonta ja ei-tuotannolliset investoinnit	290710000	0	290710000	290710000	256783353	58	256783353	58	33926646	42
+2018	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.43. Ympäristökorvaukset luonnonmukainen tuotanto neuvonta ja ei-tuotannolliset investoinnit	290710000	0	290710000	290710000	256783353	58	256783353	58	33926646	42
 2018	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.44. Luonnonhaittakorvaukset	518738000	0	518738000	518738000	451998004	78	451998004	78	66739995	22	
 2018	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.46. EU:n osarahoittama ruokaketjun kehittäminen	5705000	0	5705000	5705000	513814	86	513814	86	5191185	14	
 2018	30. Maa- ja metsätalousministeriön hallinnonala	30.20. Maa- ja elintarviketalous	30.20.47. Kansallinen ruokaketjun kehittäminen	3119000	3500000	6619000	6619000	158127	91	158127	91	6460872	9	
@@ -2106,9 +2106,9 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.45. Yleisen edun kanavien uutis- ja ajankohtaistoiminnan tuki	2000000	1500000	3500000	3500000	0	0	3500000	
 2018	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.50. Valtionavustus valtakunnallisen laajakaistahankkeen toteuttamiseen	0	13142000	13142000	13142000	0	0	13142000	
 2018	31. Liikenne- ja viestintäministeriön hallinnonala	31.40. Viestintäpalvelut ja -verkot sekä viestinnän tukeminen	31.40.60. Siirto valtion televisio- ja radiorahastoon	507948000	0	507948000	507948000	489300000	489300000	18648000	
-2018	31. Liikenne- ja viestintäministeriön hallinnonala	31.50. Sää-	 meri- ja ilmastopalvelut	31.50.01. Ilmatieteen laitoksen toimintamenot	45545000	264000	45809000	45809000	44954610	12	44954610	12	854389	88	
+2018	31. Liikenne- ja viestintäministeriön hallinnonala	31.50. Sää- meri- ja ilmastopalvelut	31.50.01. Ilmatieteen laitoksen toimintamenot	45545000	264000	45809000	45809000	44954610	12	44954610	12	854389	88	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.01. Työ- ja elinkeinoministeriön toimintamenot	32685000	189000	32874000	32874000	23166928	15	23166928	15	9707071	85	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino-	 liikenne- ja ympäristökeskusten toimintamenot	169255000	1172000	170427000	170427000	145645708	42	145645708	42	24781291	58	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.02. Elinkeino- liikenne- ja ympäristökeskusten toimintamenot	169255000	1172000	170427000	170427000	145645708	42	145645708	42	24781291	58	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.20. Siviilipalvelus	4939000	0	4939000	4939000	3473005	8	3473005	8	1465994	2	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.21. Työ- ja elinkeinoministeriön hallinnonalan tuottavuusmääräraha	5056000	0	5056000	5056000	0	0	5056000	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.01. Hallinto	32.01.29. Työ- ja elinkeinoministeriön hallinnonalan arvonlisäveromenot	36072000	0	36072000	36072000	31936724	48	31936724	48	4135275	52	
@@ -2120,7 +2120,7 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.01. Geologian tutkimuskeskuksen toimintamenot	30714000	228000	30942000	30942000	26653448	37	26653448	37	4288551	63	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.06. Innovaatiorahoituskeskus Tekesin toimintamenot	84021000	679000	84700000	84700000	36039875	95	36039875	95	48660124	5	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.28. Materiaalitehokkuuden edistäminen	400000	0	400000	400000	0	0	400000	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus-	 kehittämis- ja innovaatiotoiminnan tukeminen	250900000	30500000	281400000	281400000	243212667	37	243212667	37	38187332	63	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.40. Tutkimus- kehittämis- ja innovaatiotoiminnan tukeminen	250900000	30500000	281400000	281400000	243212667	37	243212667	37	38187332	63	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.41. Erityisavustus Teknologian tutkimuskeskus VTT Oy:n tutkimusinfrastruktuuriin	1500000	0	1500000	1500000	1500000	1500000	0	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.42. Kasvuekosysteemien ja innovatiivisten julkisten hankintojen kehittäminen	5000000	0	5000000	5000000	1120866	95	1120866	95	3879133	5	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.43. Cleantech- ja biotalousratkaisujen sekä innovaatioiden kaupallistamisen tukeminen	49300000	0	49300000	49300000	12333144	5	12333144	5	36966855	5	
@@ -2137,20 +2137,20 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.20. Elinkeino- ja innovaatiopolitiikka	32.20.89. Pääomasijoitus Tekes Pääomasijoitus Oy:lle	11800000	-5800000	6000000	6000000	0	0	6000000	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.01. Työ- ja elinkeinotoimistojen toimintamenot	163076000	1258000	164334000	164334000	123491613	48	123491613	48	40842386	52	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.30. Työllisyys- ja yrittäjyyspolitiikka	32.30.51. Julkiset työvoima- ja yrityspalvelut	327050000	29000000	356050000	356050000	12893772	74	12893772	74	343156227	26	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	11188000	92000	11280000	11280000	7923161	23	7923161	23	3356838	77	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	9247000	0	9247000	9247000	-11260220	36	-11260220	36	20507220	36	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	19071000	147000	19218000	19218000	15656252	2	15656252	2	3561747	8	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	4731000	0	4731000	4731000	4703194	51	4703194	51	27805	49	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	872000	0	872000	872000	872000	872000	0	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2572000	0	2572000	2572000	1314526	52	1314526	52	1257473	48	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.52. Palkkaturva	32000000	0	32000000	32000000	24244197	82	24244197	82	7755802	18	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.53. Matkustajien paluukuljetukset ja korvaukset	1000000	0	1000000	1000000	0	0	1000000	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö	 markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	50000	0	50000	50000	0	0	50000	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.01. Kilpailu- ja kuluttajaviraston toimintamenot	11188000	92000	11280000	11280000	7923161	23	7923161	23	3356838	77	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.03. Patentti- ja rekisterihallituksen toimintamenot	9247000	0	9247000	9247000	-11260220	36	-11260220	36	20507220	36	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.05. Turvallisuus- ja kemikaaliviraston toimintamenot	19071000	147000	19218000	19218000	15656252	2	15656252	2	3561747	8	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.31. Korvaus talous- ja velkaneuvonnan järjestämisestä	4731000	0	4731000	4731000	4703194	51	4703194	51	27805	49	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.50. Valtionavustus kuluttajajärjestölle	872000	0	872000	872000	872000	872000	0	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.51. Eräät merimiespalvelut	2572000	0	2572000	2572000	1314526	52	1314526	52	1257473	48	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.52. Palkkaturva	32000000	0	32000000	32000000	24244197	82	24244197	82	7755802	18	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.53. Matkustajien paluukuljetukset ja korvaukset	1000000	0	1000000	1000000	0	0	1000000	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.40. Yritysten toimintaympäristö markkinoiden sääntely ja työelä	32.40.95. Eräät oikeudenkäyntikulut ja korvaukset	50000	0	50000	50000	0	0	50000	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.40. Alueellisten innovaatioiden ja kokeilujen käynnistäminen	10000000	5208000	15208000	15208000	9975000	9975000	5233000	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.42. Yritysten kehittämishankkeiden tukeminen	12171000	4000000	16171000	16171000	11472172	11472172	4698828	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.43. Kansainvälistymisavustus yritysten yhteishankkeisiin	1300000	0	1300000	1300000	426378	5	426378	5	873621	5	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.44. Alueellinen kuljetustuki	5000000	0	5000000	5000000	0	0	5000000	
-2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto-	 ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	361478000	0	361478000	361478000	265971227	55	265971227	55	95506772	45	
+2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.64. EU:n ja valtion rahoitusosuus EU:n rakennerahasto- ulkorajayhteistyö- ja muihin koheesiopolitiikan ohjelmiin	361478000	0	361478000	361478000	265971227	55	265971227	55	95506772	45	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.50. Alueiden kehittäminen ja rakennerahastopolitiikka	32.50.65. Työllisyysperusteiset siirtomenot investointeihin	1700000	0	1700000	1700000	0	0	1700000	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.01. Energiaviraston toimintamenot	6513000	50000	6563000	6563000	4396356	94	4396356	94	2166643	6	
 2018	32. Työ- ja elinkeinoministeriön hallinnonala	32.60. Energiapolitiikka	32.60.20. Energiatehokkuuden ja uusiutuvan energian käytön edistäminen	3500000	0	3500000	3500000	1668056	44	1668056	44	1831943	56	
@@ -2182,15 +2182,15 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.31. Hyvinvoinnin ja terveyden edistäminen	50500000	1000000	51500000	51500000	10255975	9	10255975	9	41244024	1	
 2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.50. Valtionapu Työterveyslaitoksen menoihin	23222000	0	23222000	23222000	21322000	21322000	1900000	
 2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.03. Tutkimus- ja kehittämistoiminta	33.03.63. Eräät erityishankkeet	6602000	0	6602000	6602000	1541732	28	1541732	28	5060267	72	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	11750000	0	11750000	11750000	9360000	9360000	2390000	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.51. Lapsilisät	1369900000	0	1369900000	1369900000	1246500000	1246500000	123400000	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	3800000	0	3800000	3800000	1808588	66	1808588	66	1991411	34	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.53. Sotilasavustus	17600000	0	17600000	17600000	16100000	16100000	1500000	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.54. Asumistuki	1486500000	0	1486500000	1486500000	1492000000	1492000000	-5500000	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.55. Elatustuki	214600000	0	214600000	214600000	189303387	22	189303387	22	25296612	78	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	49400000	0	49400000	49400000	40749873	68	40749873	68	8650126	32	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.57. Perustoimeentulotuki	818800000	0	818800000	818800000	719811107	719811107	98988893	
-2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus	 perustoimeentulotuki ja	33.10.60. Kansaneläkelaitoksen sosiaaliturvarahastojen toimintakulut	325000000	3741000	328741000	328741000	302699364	31	302699364	31	26041635	69	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.50. Äitiysavustus ja valtion tuki kansainväliseen adoptioon	11750000	0	11750000	11750000	9360000	9360000	2390000	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.51. Lapsilisät	1369900000	0	1369900000	1369900000	1246500000	1246500000	123400000	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.52. Eräät valtion korvattavat perhe-etuudet	3800000	0	3800000	3800000	1808588	66	1808588	66	1991411	34	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.53. Sotilasavustus	17600000	0	17600000	17600000	16100000	16100000	1500000	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.54. Asumistuki	1486500000	0	1486500000	1486500000	1492000000	1492000000	-5500000	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.55. Elatustuki	214600000	0	214600000	214600000	189303387	22	189303387	22	25296612	78	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.56. Vammaisten henkilöiden tulkkauspalvelut	49400000	0	49400000	49400000	40749873	68	40749873	68	8650126	32	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.57. Perustoimeentulotuki	818800000	0	818800000	818800000	719811107	719811107	98988893	
+2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.10. Perhe- ja asumiskustannusten tasaus perustoimeentulotuki ja	33.10.60. Kansaneläkelaitoksen sosiaaliturvarahastojen toimintakulut	325000000	3741000	328741000	328741000	302699364	31	302699364	31	26041635	69	
 2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.31. Valtion korvaus kunnille kuntouttavan työtoiminnan järjestämisestä	26840000	0	26840000	26840000	17777558	42	17777558	42	9062441	58	
 2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.50. Valtionosuus ansiopäivärahasta	1005200000	0	1005200000	1005200000	820833345	79	820833345	79	184366654	21	
 2018	33. Sosiaali- ja terveysministeriön hallinnonala	33.20. Työttömyysturva	33.20.51. Valtionosuus peruspäivärahasta	42400000	0	42400000	42400000	18942122	82	18942122	82	23457877	18	
@@ -2250,10 +2250,10 @@ Vuosi	Paaluokka/Osasto	Luku	Momentti	Alkup.talousarvio	Lisätalousarvio	Voimassa
 2018	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.65. Öljyjätemaksulla rahoitettava öljyjätehuolto	1000000	0	1000000	1000000	0	0	1000000	
 2018	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.66. Kansainvälisen yhteistyön jäsenmaksut ja rahoitusosuudet	1812000	0	1812000	1812000	1736953	59	1736953	59	75046	41	
 2018	35. Ympäristöministeriön hallinnonala	35.10. Ympäristön- ja luonnonsuojelu	35.10.70. Alusinvestoinnit	4100000	0	4100000	4100000	4123167	68	4123167	68	-23167	68	
-2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	4886000	40000	4926000	4926000	2960375	14	2960375	14	1965624	86	
-2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.30. Vuokra-asukkaiden talousongelmien ehkäiseminen	1000000	0	1000000	1000000	58420	59	58420	59	941579	41	
-2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.52. Avustukset asuinrakennusten sähköisen liikenteen infrastruktuurin edistämiseen	1500000	0	1500000	1500000	74377	92	74377	92	1425622	8	
-2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.55. Avustukset korjaustoimintaan	16500000	0	16500000	16500000	0	0	16500000	
-2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat	 rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	850000	0	850000	850000	154611	74	154611	74	695388	26	
+2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.01. Asumisen rahoitus- ja kehittämiskeskuksen toimintamenot	4886000	40000	4926000	4926000	2960375	14	2960375	14	1965624	86	
+2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.30. Vuokra-asukkaiden talousongelmien ehkäiseminen	1000000	0	1000000	1000000	58420	59	58420	59	941579	41	
+2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.52. Avustukset asuinrakennusten sähköisen liikenteen infrastruktuurin edistämiseen	1500000	0	1500000	1500000	74377	92	74377	92	1425622	8	
+2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.55. Avustukset korjaustoimintaan	16500000	0	16500000	16500000	0	0	16500000	
+2018	35. Ympäristöministeriön hallinnonala	35.20. Yhdyskunnat rakentaminen ja asuminen	35.20.64. Avustukset rakennusperinnön hoitoon	850000	0	850000	850000	154611	74	154611	74	695388	26	
 2018	36. Valtionvelan korot	36.01. Valtionvelan korko	36.01.90. Valtionvelan korko	1221000000	0	1221000000	1221000000	1203788411	41	1203788411	41	17211588	59	
 2018	36. Valtionvelan korot	36.09. Muut menot valtionvelasta	36.09.20. Palkkiot ja muut menot valtionvelasta	10910000	0	10910000	10910000	3856247	6	3856247	6	7053752	4	

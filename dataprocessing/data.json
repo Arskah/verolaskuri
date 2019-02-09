@@ -1,0 +1,404 @@
+{
+    "yearlist": [
+        {
+            "categories": [
+                {
+                    "name": " Eduskunta",
+                    "percentage": 0.002873433859850883,
+                    "sum": 157597000
+                },
+                {
+                    "name": " Tasavallan presidentti",
+                    "percentage": 0.0006695811790145994,
+                    "sum": 36724000
+                },
+                {
+                    "name": " Valtioneuvoston kanslia",
+                    "percentage": 0.0020391740726002565,
+                    "sum": 111841000
+                },
+                {
+                    "name": " Ulkoministeri\u00f6n hallinnonala",
+                    "percentage": 0.025204597034709317,
+                    "sum": 1382377000
+                },
+                {
+                    "name": " Oikeusministeri\u00f6n hallinnonala",
+                    "percentage": 0.016627507180302748,
+                    "sum": 911956000
+                },
+                {
+                    "name": " Sis\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.023408703151401943,
+                    "sum": 1283879000
+                },
+                {
+                    "name": " Puolustusministeri\u00f6n hallinnonala",
+                    "percentage": 0.04941722060178253,
+                    "sum": 2710348000
+                },
+                {
+                    "name": " Valtiovarainministeri\u00f6n hallinnonala",
+                    "percentage": 0.3117516474470212,
+                    "sum": 17098401000
+                },
+                {
+                    "name": " Opetus- ja kulttuuriministeri\u00f6n hallinnonala",
+                    "percentage": 0.12176210851339359,
+                    "sum": 6678192000
+                },
+                {
+                    "name": " Maa- ja mets\u00e4talousministeri\u00f6n hallinnonala",
+                    "percentage": 0.048819294308769655,
+                    "sum": 2677554000
+                },
+                {
+                    "name": " Liikenne- ja viestint\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.05618472374352109,
+                    "sum": 3081520000
+                },
+                {
+                    "name": " Ty\u00f6- ja elinkeinoministeri\u00f6n hallinnonala",
+                    "percentage": 0.06588732405922194,
+                    "sum": 3613671000
+                },
+                {
+                    "name": " Sosiaali- ja terveysministeri\u00f6n hallinnonala",
+                    "percentage": 0.2383621662201911,
+                    "sum": 13073265000
+                },
+                {
+                    "name": " Ymp\u00e4rist\u00f6ministeri\u00f6n hallinnonala",
+                    "percentage": 0.005311213305929442,
+                    "sum": 291300000
+                },
+                {
+                    "name": " Valtionvelan korot",
+                    "percentage": 0.03168130532228973,
+                    "sum": 1737600000
+                }
+            ],
+            "year": 2014
+        },
+        {
+            "categories": [
+                {
+                    "name": " Eduskunta",
+                    "percentage": 0.0032024203869344763,
+                    "sum": 174169000
+                },
+                {
+                    "name": " Tasavallan presidentti",
+                    "percentage": 0.00035210829946658256,
+                    "sum": 19150000
+                },
+                {
+                    "name": " Valtioneuvoston kanslia",
+                    "percentage": 0.0034312999750159396,
+                    "sum": 186617000
+                },
+                {
+                    "name": " Ulkoministeri\u00f6n hallinnonala",
+                    "percentage": 0.02249578554865166,
+                    "sum": 1223471000
+                },
+                {
+                    "name": " Oikeusministeri\u00f6n hallinnonala",
+                    "percentage": 0.01697312775651154,
+                    "sum": 923112000
+                },
+                {
+                    "name": " Sis\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.0244337234362328,
+                    "sum": 1328869000
+                },
+                {
+                    "name": " Puolustusministeri\u00f6n hallinnonala",
+                    "percentage": 0.04994353764146204,
+                    "sum": 2716263000
+                },
+                {
+                    "name": " Valtiovarainministeri\u00f6n hallinnonala",
+                    "percentage": 0.3089710060603814,
+                    "sum": 16803906000
+                },
+                {
+                    "name": " Opetus- ja kulttuuriministeri\u00f6n hallinnonala",
+                    "percentage": 0.12513235778557233,
+                    "sum": 6805533000
+                },
+                {
+                    "name": " Maa- ja mets\u00e4talousministeri\u00f6n hallinnonala",
+                    "percentage": 0.04828730478031053,
+                    "sum": 2626186000
+                },
+                {
+                    "name": " Liikenne- ja viestint\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.054426896764200115,
+                    "sum": 2960098000
+                },
+                {
+                    "name": " Ty\u00f6- ja elinkeinoministeri\u00f6n hallinnonala",
+                    "percentage": 0.0715009315884648,
+                    "sum": 3888698000
+                },
+                {
+                    "name": " Sosiaali- ja terveysministeri\u00f6n hallinnonala",
+                    "percentage": 0.23780714232287334,
+                    "sum": 12933540000
+                },
+                {
+                    "name": " Ymp\u00e4rist\u00f6ministeri\u00f6n hallinnonala",
+                    "percentage": 0.003750256772449193,
+                    "sum": 203964000
+                },
+                {
+                    "name": " Valtionvelan korot",
+                    "percentage": 0.02929210088147325,
+                    "sum": 1593100000
+                }
+            ],
+            "year": 2015
+        },
+        {
+            "categories": [
+                {
+                    "name": " Eduskunta",
+                    "percentage": 0.0029591413177837006,
+                    "sum": 162876000
+                },
+                {
+                    "name": " Tasavallan presidentti",
+                    "percentage": 0.0002444694465243343,
+                    "sum": 13456000
+                },
+                {
+                    "name": " Valtioneuvoston kanslia",
+                    "percentage": 0.003826121251504066,
+                    "sum": 210596000
+                },
+                {
+                    "name": " Ulkoministeri\u00f6n hallinnonala",
+                    "percentage": 0.019262015852252085,
+                    "sum": 1060213000
+                },
+                {
+                    "name": " Oikeusministeri\u00f6n hallinnonala",
+                    "percentage": 0.01681454167347439,
+                    "sum": 925500000
+                },
+                {
+                    "name": " Sis\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.03623845312902451,
+                    "sum": 1994624000
+                },
+                {
+                    "name": " Puolustusministeri\u00f6n hallinnonala",
+                    "percentage": 0.05240753805259774,
+                    "sum": 2884597000
+                },
+                {
+                    "name": " Valtiovarainministeri\u00f6n hallinnonala",
+                    "percentage": 0.3160831154695001,
+                    "sum": 17397734000
+                },
+                {
+                    "name": " Opetus- ja kulttuuriministeri\u00f6n hallinnonala",
+                    "percentage": 0.12353590171717803,
+                    "sum": 6799619000
+                },
+                {
+                    "name": " Maa- ja mets\u00e4talousministeri\u00f6n hallinnonala",
+                    "percentage": 0.04674342660883143,
+                    "sum": 2572835000
+                },
+                {
+                    "name": " Liikenne- ja viestint\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.05401479385344656,
+                    "sum": 2973063000
+                },
+                {
+                    "name": " Ty\u00f6- ja elinkeinoministeri\u00f6n hallinnonala",
+                    "percentage": 0.05610746394325475,
+                    "sum": 3088247000
+                },
+                {
+                    "name": " Sosiaali- ja terveysministeri\u00f6n hallinnonala",
+                    "percentage": 0.23992639536577787,
+                    "sum": 13205943000
+                },
+                {
+                    "name": " Ymp\u00e4rist\u00f6ministeri\u00f6n hallinnonala",
+                    "percentage": 0.0037106450474234574,
+                    "sum": 204240000
+                },
+                {
+                    "name": " Valtionvelan korot",
+                    "percentage": 0.028125977271427016,
+                    "sum": 1548100000
+                }
+            ],
+            "year": 2016
+        },
+        {
+            "categories": [
+                {
+                    "name": " Eduskunta",
+                    "percentage": 0.0032184808622985226,
+                    "sum": 179988000
+                },
+                {
+                    "name": " Tasavallan presidentti",
+                    "percentage": 0.00024549705401747014,
+                    "sum": 13729000
+                },
+                {
+                    "name": " Valtioneuvoston kanslia",
+                    "percentage": 0.003968526308489999,
+                    "sum": 221933000
+                },
+                {
+                    "name": " Ulkoministeri\u00f6n hallinnonala",
+                    "percentage": 0.019471730537684147,
+                    "sum": 1088923000
+                },
+                {
+                    "name": " Oikeusministeri\u00f6n hallinnonala",
+                    "percentage": 0.016305517713035348,
+                    "sum": 911858000
+                },
+                {
+                    "name": " Sis\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.028895623750810888,
+                    "sum": 1615938000
+                },
+                {
+                    "name": " Puolustusministeri\u00f6n hallinnonala",
+                    "percentage": 0.050938090574733474,
+                    "sum": 2848625000
+                },
+                {
+                    "name": " Valtiovarainministeri\u00f6n hallinnonala",
+                    "percentage": 0.3049403863629024,
+                    "sum": 17053266000
+                },
+                {
+                    "name": " Opetus- ja kulttuuriministeri\u00f6n hallinnonala",
+                    "percentage": 0.12166826129183629,
+                    "sum": 6804088000
+                },
+                {
+                    "name": " Maa- ja mets\u00e4talousministeri\u00f6n hallinnonala",
+                    "percentage": 0.04779269198060958,
+                    "sum": 2672724000
+                },
+                {
+                    "name": " Liikenne- ja viestint\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.05849033026998167,
+                    "sum": 3270971000
+                },
+                {
+                    "name": " Ty\u00f6- ja elinkeinoministeri\u00f6n hallinnonala",
+                    "percentage": 0.05544998631875621,
+                    "sum": 3100945000
+                },
+                {
+                    "name": " Sosiaali- ja terveysministeri\u00f6n hallinnonala",
+                    "percentage": 0.26084556416739374,
+                    "sum": 14587339000
+                },
+                {
+                    "name": " Ymp\u00e4rist\u00f6ministeri\u00f6n hallinnonala",
+                    "percentage": 0.003494805865993764,
+                    "sum": 195441000
+                },
+                {
+                    "name": " Valtionvelan korot",
+                    "percentage": 0.024274506941456473,
+                    "sum": 1357510000
+                }
+            ],
+            "year": 2017
+        },
+        {
+            "categories": [
+                {
+                    "name": " Eduskunta",
+                    "percentage": 0.0022198555484296716,
+                    "sum": 124743000
+                },
+                {
+                    "name": " Tasavallan presidentti",
+                    "percentage": 0.0003394478614935987,
+                    "sum": 19075000
+                },
+                {
+                    "name": " Valtioneuvoston kanslia",
+                    "percentage": 0.00382653390349185,
+                    "sum": 215029000
+                },
+                {
+                    "name": " Ulkoministeri\u00f6n hallinnonala",
+                    "percentage": 0.019911095090477046,
+                    "sum": 1118888000
+                },
+                {
+                    "name": " Oikeusministeri\u00f6n hallinnonala",
+                    "percentage": 0.016665706603121316,
+                    "sum": 936516000
+                },
+                {
+                    "name": " Sis\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.026443744716202637,
+                    "sum": 1485985000
+                },
+                {
+                    "name": " Puolustusministeri\u00f6n hallinnonala",
+                    "percentage": 0.051428762297288454,
+                    "sum": 2889998000
+                },
+                {
+                    "name": " Valtiovarainministeri\u00f6n hallinnonala",
+                    "percentage": 0.3076594012011596,
+                    "sum": 17288673000
+                },
+                {
+                    "name": " Opetus- ja kulttuuriministeri\u00f6n hallinnonala",
+                    "percentage": 0.11827530874762744,
+                    "sum": 6646386000
+                },
+                {
+                    "name": " Maa- ja mets\u00e4talousministeri\u00f6n hallinnonala",
+                    "percentage": 0.04662383555369605,
+                    "sum": 2619989000
+                },
+                {
+                    "name": " Liikenne- ja viestint\u00e4ministeri\u00f6n hallinnonala",
+                    "percentage": 0.061322737648515556,
+                    "sum": 3445982000
+                },
+                {
+                    "name": " Ty\u00f6- ja elinkeinoministeri\u00f6n hallinnonala",
+                    "percentage": 0.05283518865835916,
+                    "sum": 2969031000
+                },
+                {
+                    "name": " Sosiaali- ja terveysministeri\u00f6n hallinnonala",
+                    "percentage": 0.26721357011294244,
+                    "sum": 15015852000
+                },
+                {
+                    "name": " Ymp\u00e4rist\u00f6ministeri\u00f6n hallinnonala",
+                    "percentage": 0.0033124416743600766,
+                    "sum": 186140000
+                },
+                {
+                    "name": " Valtionvelan korot",
+                    "percentage": 0.021922370382835083,
+                    "sum": 1231910000
+                }
+            ],
+            "year": 2018
+        }
+    ]
+}

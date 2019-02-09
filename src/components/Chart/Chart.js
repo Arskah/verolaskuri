@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
 import Block from './Block';
-import './Chart.css';
 
 export default class Chart extends Component {
   constructor(props){
@@ -10,7 +9,7 @@ export default class Chart extends Component {
   }
   render() {
     return (
-      <div className="chart">
+      <div>
         Chart
         {this.components()}
       </div>
