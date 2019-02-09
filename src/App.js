@@ -19,18 +19,21 @@ class App extends Component {
   }
 
   incomeHandler = (input) => {
+    console.log(input);
     this.setState({
       income: input,
     });
   }
 
   taxHandler = (input) => {
+    console.log(input);
     this.setState({
       tax: input,
     });
   }
 
   yearHandler = (input) => {
+    console.log(input);
     this.setState({
       year: input,
     });
