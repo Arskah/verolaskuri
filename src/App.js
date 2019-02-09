@@ -5,6 +5,7 @@ import './App.css';
 import InputContainer from './components/InputContainer/InputContainer';
 
 import Chart from './components/Chart/Chart';
+import PieChart from './components/Chart/PieChart';
 
 let testArray = [{"percentage":15, "sum" : 100, "name":"Test"},{"percentage":25, "sum" : 200, "name":"Test2"}];
 
@@ -42,6 +43,7 @@ class App extends Component {
         <header className="App-header">
           <InputContainer income={this.incomeHandler} tax={this.taxHandler} year={this.yearHandler} />
           <Chart blocks={testArray}/>
+          <PieChart data={testArray} />
         </header>
       </div>
     );
