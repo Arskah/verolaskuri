@@ -6,7 +6,7 @@ columnnames = ['Vuosi', 'Paaluokka', 'Luku', 'Momentti', 'Alkup.talousarvio', 'L
 
 # Place label names to variables for easier usage
 yearLabel = 'Vuosi'
-categoryLabel = 'Paaluokka/Osasto'
+categoryLabel = 'Paaluokka'
 subcategoryLabel = 'Momentti'
 budgetLabel = 'Voimassaoleva talousarvio'
 
@@ -20,11 +20,14 @@ budgetLabel = 'Voimassaoleva talousarvio'
 
 # Import the data
 rawdata = pd.read_csv(budgetFilename, sep='\t', names=columnnames, index_col=False)
-#print(rawdata)
 
+# Drop unimportant columns
 todrop = ['Luku', 'Alkup.talousarvio', 'Lisatalousarvio', 'Kaytettavissa', 'Nettokertyma', 'Nettokertyma vuodelta', 'Jaljella']
-wantedData = rawdata.drop(labels=todrop, axis=1)
-print(wantedData)
+filteredData = rawdata.drop(labels=todrop, axis=1)
 
-print(list(rawdata.columns.values))
+# Clean the numbers from the beginning of the category and subcategory columns
+filteredData[categoryLabel] = filteredData[categoryLabel].map(lambda x: x.lstrip('0123456789.')) 
+filteredData[subcategoryLabel] = filteredData[subcategoryLabel].map(lambda x: x.lstrip('0123456789.'))
+print(filteredData[categoryLabel].)
 
+# Convert to JSON
