@@ -15,9 +15,9 @@ export default class PieChart extends Component {
     super(props);
     values = [];
     labels = [];
-    for(var i=0; i<this.props.data.length; i++){
-      values[i] = this.props.data[i].percentage;
-      labels[i] = this.props.data[i].name;
+    for(var i=0; i<this.props.data.categories.length; i++){
+      values[i] = this.props.data.categories[i].percentage;
+      labels[i] = this.props.data.categories[i].name;
     }
     pie = d3.pie()(values);
     this.state = {
@@ -101,8 +101,8 @@ const Labels = props => {
         nx = r * Math.cos(angle3);
         ny = -r * Math.sin(angle3);
     } else if(angle3 < (Math.PI)){
-        nx = -r * Math.cos(angle3);
-        ny = r * Math.sin(angle3);
+        nx = r * Math.sin(angle3);
+        ny = -r * Math.cos(angle3);
     } else if(angle3 < (Math.PI*1.5)){
         nx = r * Math.sin(angle3);
         ny = -r * Math.cos(angle3);
@@ -114,6 +114,8 @@ const Labels = props => {
     let textAnchoring = "start";
     if(nx < 0)
         textAnchoring = "end";
+    if(ny > 0)
+        ny += 14;
     return <text style={{"font-size":"14px"}}textAnchor={textAnchoring} x={nx} y={ny}>{labels[index]}</text>;
   });
 };
