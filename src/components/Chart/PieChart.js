@@ -28,6 +28,8 @@ export default class PieChart extends Component {
             <g transform={'translate('+(width/2)+','+(height/2)+')'}>
                 <Slice pie={pie} />
                 <Labels pie={pie} labels={labels} />
+                <text y="-25" textAnchor="middle" style={{"font-size":"10px"}}>MAKSOIT VEROJA</text>
+                <text y="10"textAnchor="middle">{this.props.tax + " €"}</text>
             </g>
             
         </svg>
@@ -68,10 +70,26 @@ const Labels = props => {
     
   return pie.map((slice, index) => {
     let angle1 = slice.startAngle;
-    let angle2 = slice.endAngle;
+    let angle2 = slice.endAngle;        
     let angle3 = (angle1 + angle2) / 2;
-    let nx = (radius*1.8) * Math.cos(angle3);
-    let ny = (radius*1.8) * Math.sin(angle3);
+    console.log(labels[index] + " " + angle3);
+    let nx;
+    let ny;
+    let r = 130;
+    if(angle3 < (Math.PI/2)){
+        nx = r * Math.cos(angle3);
+        ny = -r * Math.sin(angle3);
+    } else if(angle3 < (Math.PI)){
+        nx = -r * Math.cos(angle3);
+        ny = r * Math.sin(angle3);
+    } else if(angle3 < (Math.PI*1.5)){
+        nx = r * Math.sin(angle3);
+        ny = -r * Math.cos(angle3);
+    } else{
+        nx = r * Math.sin(angle3);
+        ny = -r * Math.cos(angle3);
+    }
+
     let textAnchoring = "start";
     if(nx < 0)
         textAnchoring = "end";
@@ -80,6 +98,6 @@ const Labels = props => {
     //pos[0] = radius * (Math.PI *2 - d2);
 	/*pos[0] = radius * (midAngle(d2) < Math.PI ? 1 : -1);
     pos[0] = radius;*/
-    return <text textAnchor={textAnchoring} x={nx} y="0">{labels[index]}</text>;
+    return <text style={{"font-size":"14px"}}textAnchor={textAnchoring} x={nx} y={ny}>{labels[index]}</text>;
   });
 };
