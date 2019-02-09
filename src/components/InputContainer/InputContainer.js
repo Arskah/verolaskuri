@@ -20,19 +20,19 @@ export default class InputContainer extends Component {
           step={1}
         />
         <InputSlider id="income" label="Valitse tulotasosi"
-          min={100}
-          max={10000}
-          defaultVal={100}
+          min={5000}
+          max={1000000}
+          defaultVal={5000}
           handlerFunc={this.props.income}
-          step={100}
-          unit={'€'}
+          step={5000}
+          unit={'€/vuosi'}
         />
         <InputSlider id="tax" label="Valitse verokategoriasi"
           min={0}
           max={100}
           defaultVal={5}
           handlerFunc={this.props.tax}
-          step={1}
+          step={5}
           unit={"%"}
         />
       </div>

@@ -29,17 +29,25 @@ class InputSlider extends Component {
   render() {
     const { id, label, min, max, classes, step, unit } = this.props;
     const { value } = this.state;
+    let stepped = undefined;
+    if (unit && value !== max) {
+      stepped = `- ${value + step}`;
+    }
     return (
-      <div className={classes.root}>
-        {label}: {value} {unit}
-        <Slider
-          classes={{ container: classes.slider }}
-          value={value}
-          min={min}
-          max={max}
-          step={step}
-          onChange={this.handleChange}
-        />
+      <div className="row">
+        <div>
+          {label}: {value} {stepped} {unit}
+        </div>
+        <div className={classes.root}>
+          <Slider
+            classes={{ container: classes.slider }}
+            value={value}
+            min={min}
+            max={max}
+            step={step}
+            onChange={this.handleChange}
+          />
+        </div>
       </div>
     )
   }
