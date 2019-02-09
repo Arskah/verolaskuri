@@ -1,0 +1,18 @@
+.piechart {
+  display: flex;
+  flex: 3;
+  /* this is just to force input sliders lower in page.
+  Modify after Chart done */
+  min-width: 200px;
+  width: 100%;
+  justify-content: center;
+}
+
+.svg-container {
+  width: 100%;
+}
+
+.svg-img {
+  width: 100%;
+  min-height: 400px;
+}
